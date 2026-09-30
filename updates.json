@@ -1,8 +1,8 @@
 {
- "date": "2026-09-29",
- "crawlTime": "2026-09-29T16:57:36",
+ "date": "2026-09-30",
+ "crawlTime": "2026-09-30T16:57:35",
  "total": 75,
- "alive": 20,
+ "alive": 19,
  "dead": [
   {
    "name": "NSFC",
@@ -217,6 +217,12 @@
   {
    "name": "珠海市科技创新局",
    "url": "http://www.zhuhai.gov.cn/kjcxj/gkmlpt/index",
+   "code": 0,
+   "error": "curl exit 52"
+  },
+  {
+   "name": "珠海市科技文献共享服务平台",
+   "url": "http://sc.zhsti.net/",
    "code": 0,
    "error": "curl exit 52"
   },
@@ -475,7 +481,7 @@
    "url": "https://zhsme.org.cn/policy/toPlicyMain?type=12",
    "ok": true,
    "code": 200,
-   "ms": 3537,
+   "ms": 4073,
    "count": 0
   },
   {
@@ -484,7 +490,7 @@
    "url": "https://zhsme.org.cn/kfsys/laboratory/view/7876f501-8434-4fae-9dfb-278aa3f2a7a9",
    "ok": true,
    "code": 200,
-   "ms": 3340,
+   "ms": 2148,
    "count": 0
   },
   {
@@ -493,16 +499,7 @@
    "url": "http://www.zhast.com.cn/tzgg/index_1.html",
    "ok": true,
    "code": 200,
-   "ms": 2789,
-   "count": 0
-  },
-  {
-   "name": "珠海市科技文献共享服务平台",
-   "kind": "gov",
-   "url": "http://sc.zhsti.net/",
-   "ok": true,
-   "code": 200,
-   "ms": 3414,
+   "ms": 3163,
    "count": 0
   },
   {
@@ -511,7 +508,7 @@
    "url": "http://www.zsia.org.cn/index.php/news/titlelist/cid/37.html",
    "ok": true,
    "code": 200,
-   "ms": 3097,
+   "ms": 6637,
    "count": 3
   },
   {
@@ -520,7 +517,7 @@
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/zntg.html",
    "ok": false,
    "code": 0,
-   "ms": 157,
+   "ms": 192,
    "count": 0
   },
   {
@@ -529,7 +526,7 @@
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/",
    "ok": false,
    "code": 0,
-   "ms": 152,
+   "ms": 226,
    "count": 0
   },
   {
@@ -538,7 +535,7 @@
    "url": "https://zhuhai.cnippc.com.cn/",
    "ok": false,
    "code": 0,
-   "ms": 7812,
+   "ms": 7862,
    "count": 0
   },
   {
@@ -547,7 +544,7 @@
    "url": "http://kjt.yn.gov.cn/list-12-2.html",
    "ok": false,
    "code": 0,
-   "ms": 154,
+   "ms": 323,
    "count": 0
   },
   {
@@ -556,7 +553,7 @@
    "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 158,
+   "ms": 194,
    "count": 0
   },
   {
@@ -565,7 +562,7 @@
    "url": "http://kw.beijing.gov.cn/col/col736/index.html",
    "ok": false,
    "code": 0,
-   "ms": 143,
+   "ms": 222,
    "count": 0
   },
   {
@@ -574,7 +571,7 @@
    "url": "http://kjt.jl.gov.cn/",
    "ok": false,
    "code": 0,
-   "ms": 170,
+   "ms": 290,
    "count": 0
   },
   {
@@ -583,7 +580,7 @@
    "url": "http://kjt.sc.gov.cn/kjt/gstz/newschild.shtml",
    "ok": false,
    "code": 0,
-   "ms": 233,
+   "ms": 249,
    "count": 0
   },
   {
@@ -592,7 +589,7 @@
    "url": "https://service.most.gov.cn/",
    "ok": false,
    "code": 0,
-   "ms": 154,
+   "ms": 220,
    "count": 0
   },
   {
@@ -601,7 +598,7 @@
    "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/",
    "ok": false,
    "code": 0,
-   "ms": 145,
+   "ms": 226,
    "count": 0
   },
   {
@@ -610,7 +607,7 @@
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 232,
+   "ms": 243,
    "count": 0
   },
   {
@@ -619,7 +616,7 @@
    "url": "http://kjt.ah.gov.cn/kjzx/tzgg/index.html",
    "ok": false,
    "code": 0,
-   "ms": 157,
+   "ms": 231,
    "count": 0
   },
   {
@@ -628,7 +625,7 @@
    "url": "http://kjt.shandong.gov.cn/col/col13360/index.html",
    "ok": false,
    "code": 0,
-   "ms": 149,
+   "ms": 286,
    "count": 0
   },
   {
@@ -637,7 +634,7 @@
    "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/tzgg_11716/",
    "ok": false,
    "code": 0,
-   "ms": 178,
+   "ms": 567,
    "count": 0
   },
   {
@@ -646,7 +643,7 @@
    "url": "http://gdii.gd.gov.cn/zwgk/tzgg1011/index.html",
    "ok": false,
    "code": 0,
-   "ms": 162,
+   "ms": 197,
    "count": 0
   },
   {
@@ -655,7 +652,7 @@
    "url": "http://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
    "ok": false,
    "code": 0,
-   "ms": 158,
+   "ms": 204,
    "count": 0
   },
   {
@@ -664,7 +661,7 @@
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 232,
+   "ms": 246,
    "count": 0
   },
   {
@@ -673,7 +670,7 @@
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/common_list.shtml",
    "ok": false,
    "code": 0,
-   "ms": 230,
+   "ms": 231,
    "count": 0
   },
   {
@@ -682,7 +679,7 @@
    "url": "http://www.hengqin.gov.cn/macao_zh_hans/zwgk/tzgg/index.html",
    "ok": false,
    "code": 0,
-   "ms": 145,
+   "ms": 172,
    "count": 0
   },
   {
@@ -691,7 +688,7 @@
    "url": "http://std.jiangsu.gov.cn/col/col82540/index.html",
    "ok": false,
    "code": 0,
-   "ms": 166,
+   "ms": 277,
    "count": 0
   },
   {
@@ -700,7 +697,7 @@
    "url": "http://kjt.jiangxi.gov.cn/col/col27029/index.html",
    "ok": false,
    "code": 0,
-   "ms": 170,
+   "ms": 317,
    "count": 0
   },
   {
@@ -709,7 +706,7 @@
    "url": "https://kjt.hebei.gov.cn/www/xwzx15/tzgg35/index.html",
    "ok": false,
    "code": 0,
-   "ms": 233,
+   "ms": 237,
    "count": 0
   },
   {
@@ -718,7 +715,7 @@
    "url": "http://kjt.henan.gov.cn/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 225,
+   "ms": 236,
    "count": 0
   },
   {
@@ -727,7 +724,7 @@
    "url": "http://kjt.zj.gov.cn/col/col1229225203/index.html",
    "ok": false,
    "code": 0,
-   "ms": 175,
+   "ms": 287,
    "count": 0
   },
   {
@@ -736,7 +733,7 @@
    "url": "http://dost.hainan.gov.cn/xxgk/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 168,
+   "ms": 557,
    "count": 0
   },
   {
@@ -745,7 +742,7 @@
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 235,
+   "ms": 243,
    "count": 0
   },
   {
@@ -754,7 +751,7 @@
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/index.html",
    "ok": false,
    "code": 0,
-   "ms": 233,
+   "ms": 255,
    "count": 0
   },
   {
@@ -763,7 +760,7 @@
    "url": "http://zhrsj.zhuhai.gov.cn/zc/zcjd/",
    "ok": false,
    "code": 0,
-   "ms": 153,
+   "ms": 189,
    "count": 0
   },
   {
@@ -772,7 +769,7 @@
    "url": "http://www.zhuhai.gov.cn/zfxxgk/zfxxgkml/",
    "ok": false,
    "code": 0,
-   "ms": 153,
+   "ms": 179,
    "count": 0
   },
   {
@@ -781,7 +778,7 @@
    "url": "http://fgj.zhuhai.gov.cn/zwgk/tzgg/index.html",
    "ok": false,
    "code": 0,
-   "ms": 165,
+   "ms": 204,
    "count": 0
   },
   {
@@ -790,7 +787,7 @@
    "url": "http://swj.zhuhai.gov.cn/zwgk/tzgg/index.html",
    "ok": false,
    "code": 0,
-   "ms": 149,
+   "ms": 173,
    "count": 0
   },
   {
@@ -799,7 +796,7 @@
    "url": "http://www.zhuhai.gov.cn/gxj/gkmlpt/index",
    "ok": false,
    "code": 0,
-   "ms": 149,
+   "ms": 197,
    "count": 0
   },
   {
@@ -808,7 +805,7 @@
    "url": "http://www.zhuhai.gov.cn/scjgj/gkmlpt/index",
    "ok": false,
    "code": 0,
-   "ms": 157,
+   "ms": 192,
    "count": 0
   },
   {
@@ -817,7 +814,7 @@
    "url": "http://zhjy.zhuhai.gov.cn/gkmlpt/index",
    "ok": false,
    "code": 0,
-   "ms": 156,
+   "ms": 166,
    "count": 0
   },
   {
@@ -826,7 +823,7 @@
    "url": "https://www.zhsk.gov.cn/show/channel/46",
    "ok": false,
    "code": 0,
-   "ms": 151,
+   "ms": 177,
    "count": 0
   },
   {
@@ -835,7 +832,16 @@
    "url": "http://www.zhuhai.gov.cn/kjcxj/gkmlpt/index",
    "ok": false,
    "code": 0,
-   "ms": 156,
+   "ms": 172,
+   "count": 0
+  },
+  {
+   "name": "珠海市科技文献共享服务平台",
+   "kind": "gov",
+   "url": "http://sc.zhsti.net/",
+   "ok": false,
+   "code": 0,
+   "ms": 1218,
    "count": 0
   },
   {
@@ -844,7 +850,7 @@
    "url": "http://caizheng.zhuhai.gov.cn/ljcz/tzgg/index.html",
    "ok": false,
    "code": 0,
-   "ms": 153,
+   "ms": 170,
    "count": 0
   },
   {
@@ -853,7 +859,7 @@
    "url": "http://zwgk.zhxz.gov.cn/",
    "ok": false,
    "code": 0,
-   "ms": 148,
+   "ms": 168,
    "count": 0
   },
   {
@@ -862,7 +868,7 @@
    "url": "http://www.zhsti.net/s_show.aspx?id=04-01-01",
    "ok": false,
    "code": 404,
-   "ms": 3902,
+   "ms": 3066,
    "count": 0
   },
   {
@@ -871,7 +877,7 @@
    "url": "http://kjt.gansu.gov.cn/kjt/c111529/info_list.shtml",
    "ok": false,
    "code": 0,
-   "ms": 232,
+   "ms": 228,
    "count": 0
   },
   {
@@ -880,7 +886,7 @@
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 164,
+   "ms": 335,
    "count": 0
   },
   {
@@ -889,7 +895,7 @@
    "url": "http://www.most.gov.cn/tztg/",
    "ok": false,
    "code": 0,
-   "ms": 155,
+   "ms": 188,
    "count": 0
   },
   {
@@ -898,7 +904,7 @@
    "url": "http://www.chinatorch.gov.cn/",
    "ok": false,
    "code": 0,
-   "ms": 149,
+   "ms": 175,
    "count": 0
   },
   {
@@ -907,7 +913,7 @@
    "url": "http://sti.xizang.gov.cn/xxgk/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 175,
+   "ms": 231,
    "count": 0
   },
   {
@@ -916,7 +922,7 @@
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/",
    "ok": false,
    "code": 0,
-   "ms": 162,
+   "ms": 281,
    "count": 0
   },
   {
@@ -925,7 +931,7 @@
    "url": "http://kjt.ln.gov.cn/tztg/gztz/",
    "ok": false,
    "code": 0,
-   "ms": 173,
+   "ms": 570,
    "count": 0
   },
   {
@@ -934,7 +940,7 @@
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/",
    "ok": false,
    "code": 0,
-   "ms": 151,
+   "ms": 216,
    "count": 0
   },
   {
@@ -943,7 +949,7 @@
    "url": "https://kjt.shaanxi.gov.cn/view/iList.jsp?cat_id=221",
    "ok": false,
    "code": 0,
-   "ms": 228,
+   "ms": 231,
    "count": 0
   },
   {
@@ -952,7 +958,7 @@
    "url": "http://kjt.qinghai.gov.cn/content/lists/cid/7/pid/26/page/",
    "ok": false,
    "code": 0,
-   "ms": 226,
+   "ms": 240,
    "count": 0
   },
   {
@@ -961,7 +967,7 @@
    "url": "http://www.hljkjt.gov.cn/html/zwgk/tztg/list.html",
    "ok": false,
    "code": 0,
-   "ms": 161,
+   "ms": 757,
    "count": 0
   },
   {
@@ -970,7 +976,7 @@
    "url": "https://damo.alibaba.com/",
    "ok": true,
    "code": 200,
-   "ms": 1849,
+   "ms": 2681,
    "count": 0
   },
   {
@@ -979,7 +985,7 @@
    "url": "https://developer.huaweicloud.com/",
    "ok": true,
    "code": 200,
-   "ms": 644,
+   "ms": 485,
    "count": 0
   },
   {
@@ -988,7 +994,7 @@
    "url": "https://leihuo.163.com/",
    "ok": true,
    "code": 200,
-   "ms": 735,
+   "ms": 490,
    "count": 0
   },
   {
@@ -997,7 +1003,7 @@
    "url": "https://scholarship.bytedance.com/",
    "ok": true,
    "code": 200,
-   "ms": 1296,
+   "ms": 2652,
    "count": 0
   },
   {
@@ -1006,7 +1012,7 @@
    "url": "https://www.antresearch.com/",
    "ok": true,
    "code": 200,
-   "ms": 2757,
+   "ms": 1468,
    "count": 0
   },
   {
@@ -1015,7 +1021,7 @@
    "url": "https://www.aysfellowship.org/",
    "ok": true,
    "code": 200,
-   "ms": 884,
+   "ms": 613,
    "count": 0
   },
   {
@@ -1024,7 +1030,7 @@
    "url": "https://www.caai.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1254,
+   "ms": 1870,
    "count": 4
   },
   {
@@ -1033,7 +1039,7 @@
    "url": "https://www.camscma.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1750,
+   "ms": 2337,
    "count": 1
   },
   {
@@ -1042,7 +1048,7 @@
    "url": "https://www.ccf.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1548,
+   "ms": 3474,
    "count": 2
   },
   {
@@ -1051,7 +1057,7 @@
    "url": "https://www.chaspark.com/",
    "ok": true,
    "code": 200,
-   "ms": 564,
+   "ms": 933,
    "count": 0
   },
   {
@@ -1060,7 +1066,7 @@
    "url": "https://www.heprize.org/",
    "ok": true,
    "code": 200,
-   "ms": 1131,
+   "ms": 1220,
    "count": 3
   },
   {
@@ -1069,7 +1075,7 @@
    "url": "https://www.qscgba.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 2707,
+   "ms": 1750,
    "count": 0
   },
   {
@@ -1078,7 +1084,7 @@
    "url": "https://www.wizsci.com/",
    "ok": true,
    "code": 200,
-   "ms": 1083,
+   "ms": 507,
    "count": 0
   },
   {
@@ -1087,7 +1093,7 @@
    "url": "https://www.xplorerprize.org/",
    "ok": true,
    "code": 200,
-   "ms": 726,
+   "ms": 858,
    "count": 0
   },
   {
@@ -1096,7 +1102,7 @@
    "url": "https://xisike.csco.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1667,
+   "ms": 2704,
    "count": 0
   },
   {
@@ -1105,7 +1111,7 @@
    "url": "https://campus.baidu.com/",
    "ok": false,
    "code": 0,
-   "ms": 8410,
+   "ms": 7606,
    "count": 0
   },
   {
@@ -1114,7 +1120,7 @@
    "url": "https://lmg.cipsc.org.cn/",
    "ok": false,
    "code": 0,
-   "ms": 1168,
+   "ms": 3513,
    "count": 0
   },
   {
@@ -1123,7 +1129,7 @@
    "url": "https://www.cepf.org.cn/",
    "ok": false,
    "code": 0,
-   "ms": 641,
+   "ms": 967,
    "count": 0
   },
   {
@@ -1132,7 +1138,7 @@
    "url": "https://www.hecpharm.com/",
    "ok": false,
    "code": 0,
-   "ms": 8099,
+   "ms": 7746,
    "count": 0
   },
   {
@@ -1141,7 +1147,7 @@
    "url": "https://www.mpcs.cn/",
    "ok": false,
    "code": 0,
-   "ms": 877,
+   "ms": 718,
    "count": 0
   }
  ],
