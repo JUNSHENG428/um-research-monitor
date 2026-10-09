@@ -1,8 +1,8 @@
 {
- "date": "2026-10-08",
- "crawlTime": "2026-10-08T16:57:45",
+ "date": "2026-10-09",
+ "crawlTime": "2026-10-09T16:57:32",
  "total": 75,
- "alive": 55,
+ "alive": 56,
  "dead": [
   {
    "name": "中国（珠海）知识产权保护中心",
@@ -113,12 +113,6 @@
    "error": "curl exit 60"
   },
   {
-   "name": "www.hecpharm.com",
-   "url": "https://www.hecpharm.com/",
-   "code": 0,
-   "error": "curl exit 28"
-  },
-  {
    "name": "www.mpcs.cn",
    "url": "https://www.mpcs.cn/",
    "code": 0,
@@ -127,814 +121,14 @@
  ],
  "newNotices": [
   {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市财政局 国家税务总局珠海市税务局 珠海市民政局 国家税务总局横琴粤澳深度合作区税务局关于公益性社会组织捐赠税前扣除资格名单的公告",
-   "date": "2026-04-01",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3891983.html",
-   "hkmo": true,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "广东省科学技术厅",
    "kind": "gov",
    "title": "广东省科学技术厅关于发布2027年度粤澳科技创新联合资助专题申报指南的通知",
    "date": "2026-09-18",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4957102.html",
    "hkmo": true,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "科技发展计划（项目）管理",
-   "date": "",
-   "url": "http://kjt.jl.gov.cn/bsfw/kjjhxmsb/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "国家科学技术奖励工作办公室",
-   "date": "",
-   "url": "https://www.nosta.gov.cn/pc/zh/index.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "国家科技管理信息系统公共服务平台",
-   "kind": "gov",
-   "title": "关于完善补充专家信息的通知",
-   "date": "",
-   "url": "https://service.most.gov.cn/u/cms/static/202205/入库专家基本标准_20220531223134.pdf",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "科技管理和项目经费",
-   "date": "",
-   "url": "https://dost.hainan.gov.cn/xxgk/kjglhxmjf/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖北科技厅",
-   "kind": "gov",
-   "title": "卫生和计划生育委员会",
-   "date": "",
-   "url": "http://www.nhc.gov.cn/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖北科技厅",
-   "kind": "gov",
-   "title": "湖北省高新技术发展促进中心（湖北省创业投资引导基金管理中心）",
-   "date": "",
-   "url": "https://kjt.hubei.gov.cn/zfxxgk_GK2020/xxgkml/jgzn/zsdw/201910/t20191023_271573.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "省自然科学基金委员会办公室",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/jgzn/nsjg/202003/t20200313_2226967.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "省科学技术奖励工作办公室",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/jgzn/nsjg/202003/t20200313_2226966.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "湖南省火炬创业中心 (湖南省科技型中小企业技术创新基金管理中心)",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/jgzn/zsjg/202003/t20200313_2909559.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "湖南省科学技术厅 湖南省财政厅关于申报2027年湖南省科普项目（第一批）的通知",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260930_34075451.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "湖南省科学技术厅关于做好2026年度湖南省科学技术奖提名工作的通知",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260930_34075237.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "关于组织开展2026年第二批湖南省高等院校科研院所横向科研项目备案的通知",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260930_34075006.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "关于2026年湖南省研发财政奖补拟兑现企业名单的公示",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260929_34073889.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "关于核定2026年科学研究和技术服务业非企业单位科技统计调查名录清单的通知",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260928_34073577.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "关于公布湖南省2026年第三批入库科技型中小企业名单的通知",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260928_34073459.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "2026年湖南省（国际）创新创业大赛总决赛入围项目名单公示",
-   "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260928_34072883.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "珠海市社会保险基金管理中心",
-   "date": "",
-   "url": "http://zhsi.zhuhai.gov.cn/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "贵州省人民政府群众身边不正之风和腐败问题线索征集",
-   "date": "",
-   "url": "https://www.guizhou.gov.cn/ztzl/2026nqzsbbzzfhfbwtxszj/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "辽宁科技厅",
-   "kind": "gov",
-   "title": "政府信息公开指南",
-   "date": "",
-   "url": "http://kjt.ln.gov.cn/kjt/zfxxgk/zfxxgkzn/index.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "辽宁科技厅",
-   "kind": "gov",
-   "title": "科技教育人才支撑塑造发展新动能专项行动",
-   "date": "",
-   "url": "http://kjt.ln.gov.cn/kjt/ztzl/lnqmzxxtpsnxd/index.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "科技发展计划（项目）管理",
-   "date": "2016-05-03",
-   "url": "http://kjt.jl.gov.cn/bsfw/kjjhxmsb/201605/t20160503_2256110.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于开展季度调查监测的通知",
-   "date": "2020-06-14",
-   "url": "http://www.chinatorch.gov.cn/kjfw/tztg/202006/ebb7f4834b96465d92adbe7f9b59172e.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "关于印发《吉林省科学技术奖励办法实施细则》的通知",
-   "date": "2022-05-31",
-   "url": "http://kjt.jl.gov.cn/xxgk/fgwj/202203/t20220307_8407113.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市发展和改革局",
-   "kind": "gov",
-   "title": "关于公布珠海市妨碍建设统一大市场暨设置市场准入隐性壁垒投诉渠道的公告",
-   "date": "2023-10-26",
-   "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3592367.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "关于公开征集群众身边不正之风和腐败问题线索的公告",
-   "date": "2025-04-09",
-   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202504/t20250409_87494925.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "火炬中心关于开展2023年度火炬统计数据年审工作的通知",
-   "date": "2025-06-17",
-   "url": "http://www.chinatorch.gov.cn/kjb/xxtz/202506/4a2ec2ec5f42458298a68161d57a951a.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "关于废止《关于我市城镇职工基本养老保险延续缴费人员趸缴养老保险费有关问题的通知》的政策解读",
-   "date": "2025-08-01",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3821396.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于常态化征集重点产业领域科技攻关需求的通知",
-   "date": "2025-09-04",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2025/9/4/14731bc7177d4169b447652a7450393c.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "关于《珠海市人力资源和社会保障局 珠海市财政局关于重新印发&lt;珠海市就业创业补贴申请办理指导清单&gt;的通知》的政策解读",
-   "date": "2025-10-31",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3847715.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于常态化征集成渝地区“一带一路”科技合作“双千”计划项目需求的通知",
-   "date": "2025-11-25",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2025/11/25/ca0f125b6f974c058b0fc8974ab9e3d8.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "@在珠海打拼的你 @在珠海创业的TA 这份超全政策指南包，请速速收藏！",
-   "date": "2025-11-28",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3857154.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "吉林省科技发展计划项目管理办法",
-   "date": "2025-12-15",
-   "url": "http://kjt.jl.gov.cn/bsfw/kjjhxmsb/202512/t20251215_9371589.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "吉林省科学技术奖情况介绍",
-   "date": "2025-12-15",
-   "url": "http://kjt.jl.gov.cn/bsfw/kjjlsb/201604/t20160422_2201350.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "吉林省科学技术奖励办法",
-   "date": "2025-12-15",
-   "url": "http://xxgk.jl.gov.cn/zcbm/fgw_98017/zcfg/202212/t20221207_8645107.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "吉林科技厅",
-   "kind": "gov",
-   "title": "吉林省科学技术奖励提名制实施办法",
-   "date": "2025-12-15",
-   "url": "https://kjt.jl.gov.cn/xxgk/fgwj/202203/t20220307_8407114.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "《珠海市人民政府关于重新发布〈珠海市城乡居民基本养老保险实施办法〉的通知》政策解读",
-   "date": "2025-12-22",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3864143.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "关于《关于重新印发&lt;珠海市级创业孵化基地认定和管理办法&gt;的通知》的政策解读",
-   "date": "2025-12-30",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3870362.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "NSFC",
-   "kind": "gov",
-   "title": "关于2026年度国家自然科学基金项目申请与结题等有关事项的通告",
-   "date": "2026-01-14",
-   "url": "https://www.nsfc.gov.cn/p1/3381/2824/99667.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "图解：珠海市人民政府关于重新发布《珠海市城乡居民基本养老保险实施办法》的通知（珠府函〔2025〕181号）",
-   "date": "2026-01-14",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3870994.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "NSFC",
-   "kind": "gov",
-   "title": "2026年度国家自然科学基金项目指南",
-   "date": "2026-01-19",
-   "url": "https://www.nsfc.gov.cn/p1/2931/3971/3972/qy2026.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "上海科技委员会",
-   "kind": "gov",
-   "title": "上海市科学技术委员会关于发布2026年度“上海伙伴科研计划”项目申报指南的通知",
-   "date": "2026-01-20",
-   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260120/95740ff6f1c64d728f0c1ae1cf47f03c.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市社会保险基金定期存款竞争性存放项目竞争性公告",
-   "date": "2026-03-18",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3887669.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "工业和信息化部火炬高技术产业开发中心博士后科研工作站2026年度博士后研究人员招收公告",
-   "date": "2026-03-30",
-   "url": "http://www.chinatorch.gov.cn/kjb/gongg/202603/5f1071641d544837bc7735db14078089.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市社会保险基金定期存款竞争性存放项目更正公告",
-   "date": "2026-04-01",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3893134.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "关于获得2026～2028年度公益性捐赠税前扣除资格群众团体名单的公告（第一批）",
-   "date": "2026-04-07",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3894317.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市社会保险基金定期存款竞争性存放项目更正公告（第二次）",
-   "date": "2026-04-22",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3898855.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "关于对珠海华天会计师事务所（普通合伙）执业质量开展专项核查的查前公示",
-   "date": "2026-04-30",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3901837.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市社会保险基金定期存款竞争性存放项目结果公告",
-   "date": "2026-04-30",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3901364.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "国家科技基础条件平台中心2026年度高层次专业技术人才公开招聘笔试公告",
-   "date": "2026-05-19",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260519_196623.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "科技部新技术中心2026年度公开招聘高校应届毕业生递补人员面试公告",
-   "date": "2026-05-20",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260520_196641.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "工业和信息化部火炬中心关于开展2025年度火炬统计数据年审工作的通知",
-   "date": "2026-05-20",
-   "url": "http://www.chinatorch.gov.cn/kjfw/tztg/202605/8f73017d4ff84709ba6b750f8ec5b5f8.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "科学技术部国际科技合作中心2026年公开招聘应届毕业生面试公告",
-   "date": "2026-05-21",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260521_196655.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "科学技术部国际科技合作中心关于公布2026年度公开招聘应届毕业生补充面试人员名单的通知",
-   "date": "2026-05-22",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260522_196671.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "中信所2026年度公开招聘面试递补公告",
-   "date": "2026-05-25",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260525_196679.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "科学技术部国际科技合作中心关于公布2026年度公开招聘应届毕业生补充面试人员名单的通知",
-   "date": "2026-05-25",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260525_196678.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "科学技术部机关服务中心2026年度公开招聘高校应届毕业生递补人员面试公告",
-   "date": "2026-05-27",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260527_196705.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "广东省财政厅关于做好2026年度会计专业技术人员继续教育工作有关事项的通知",
-   "date": "2026-05-28",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3910073.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "国家科技基础条件平台中心2026年度高层次专业技术人才公开招聘面试公告",
-   "date": "2026-05-28",
-   "url": "http://www.most.gov.cn/tztg/202605/t20260528_196709.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市财政局购买“财政部融资平台债务系统”及“广东省政府专项债券项目穿透式监测系统”运营服务项目单一来源采购公示",
-   "date": "2026-06-02",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3911334.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "关于SKAO国际组织职员招聘（2026年第5批）的通知",
-   "date": "2026-06-03",
-   "url": "http://www.most.gov.cn/tztg/202606/t20260603_196743.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市财政局2026年公开招聘合同制职员资格复审和面试公告",
-   "date": "2026-06-08",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3913199.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "转发广东省财政厅关于做好2026年度会计专业技术人员继续教育工作有关事项的通知",
-   "date": "2026-06-12",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3914750.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "2026年度工业和信息化部火炬高技术产业开发中心公开招聘编外工作人员公告",
-   "date": "2026-06-12",
-   "url": "http://www.chinatorch.gov.cn/kjb/gongg/202606/7339e3e05b124af99ff6f3956270b467.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "关于征集2026年度国家科学技术学术著作出版基金项目的通知",
-   "date": "2026-06-16",
-   "url": "http://www.most.gov.cn/tztg/202606/t20260616_196787.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市财政局2026年公开招聘合同制职员综合成绩及进入体检人员公告",
-   "date": "2026-06-18",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3916488.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于征集《技术转移机构服务评价规范》行业标准参编单位的通知",
-   "date": "2026-06-23",
-   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202606/0b65e46f8c214b69ae410811b5e3b366.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "关于SKAO国际组织职员招聘 （2026年第6批）的通知",
-   "date": "2026-07-13",
-   "url": "http://www.most.gov.cn/tztg/202607/t20260713_197077.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于举办全国省级高新区高质量发展培训班的通知",
-   "date": "2026-07-13",
-   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202607/33d6ef4d2e464d78b0620ff940f5a8f6.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于征集《科技型企业孵化器创业导师服务规范》《科技型企业孵化器建设导则》行业标准参编单位的通知",
-   "date": "2026-07-13",
-   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202607/64aa0ba56beb471b8d3ce278a2d8cb37.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "《科技服务 技术合同认定登记服务规范》等7项标准列入工业和信息化部行业标准制修订项目计划",
-   "date": "2026-07-15",
-   "url": "http://www.chinatorch.gov.cn/kjb/hjdt/202607/bffb1165e43d4cb19102cf789f37ab95.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于常态化申报重大科技创新活动的通知",
-   "date": "2026-07-17",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/7/17/6c5eee73f1294d59b775223fd0d1f42d.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "关于ITER组织职员招聘的通知",
-   "date": "2026-07-27",
-   "url": "http://www.most.gov.cn/tztg/202607/t20260727_197101.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于征求《技术转移机构服务评价规范（征求意见稿）》推荐性行业标准意见的通知",
-   "date": "2026-07-27",
-   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202607/edcb0f9a8db74291875eae6ccd64c33e.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市商务局",
-   "kind": "gov",
-   "title": "关于公示第140届广交会线下展珠海分团一般性展位分配方案的通知 2026-07-31",
-   "date": "2026-07-31",
-   "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3929318.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市人力资源和社会保障局",
-   "kind": "gov",
-   "title": "《广东省工程建设项目参加工伤保险办法》政策解读",
-   "date": "2026-08-03",
-   "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3929531.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "关于公布2026年度省级非营利组织获得免税资格单位名单（第二批）的公告",
-   "date": "2026-08-06",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3930664.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "关于获得2026—2028年度公益性捐赠税前扣除资格群众团体名单（第二批）的公告",
-   "date": "2026-08-06",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3930650.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "关于公布珠海市第十八批非营利组织免税资格名单的通知",
-   "date": "2026-08-06",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3930648.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "新疆科技厅",
-   "kind": "gov",
-   "title": "关于自治区2026年第一批入库科技型中小企业名单的公告",
-   "date": "2026-08-07",
-   "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202608/9a6c3374f0c94f69a3c9771ad1ba9015.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -943,8 +137,8 @@
    "date": "2026-08-11",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3931785.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -953,8 +147,8 @@
    "date": "2026-08-12",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202608/ca47ae309ebc40b898af2299ed420273.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -963,8 +157,8 @@
    "date": "2026-08-13",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202608/59545d0f47044174b313b855233c84ee.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -973,8 +167,8 @@
    "date": "2026-08-14",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202608/t20260814_90734077.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部火炬高技术产业开发中心",
@@ -983,8 +177,8 @@
    "date": "2026-08-17",
    "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202608/4758c763e852436f80ba16a74aa2c4ff.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -993,8 +187,8 @@
    "date": "2026-08-17",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026081809423493138/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1003,8 +197,18 @@
    "date": "2026-08-17",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026081809371824928/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "辽宁科技厅",
+   "kind": "gov",
+   "title": "关于发布“场景资源与创新资源链接互促” 案例清单的通知",
+   "date": "2026-08-17",
+   "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026081809340163152/index.shtml",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市软件行业协会",
@@ -1023,8 +227,8 @@
    "date": "2026-08-19",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202608/d8df5a3041d04d2a8ca3e52dff981705.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市人力资源和社会保障局",
@@ -1033,8 +237,8 @@
    "date": "2026-08-19",
    "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3933944.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市人力资源和社会保障局",
@@ -1043,8 +247,8 @@
    "date": "2026-08-19",
    "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3933940.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市软件行业协会",
@@ -1063,8 +267,8 @@
    "date": "2026-08-24",
    "url": "http://www.most.gov.cn/tztg/202608/t20260824_197186.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1073,8 +277,8 @@
    "date": "2026-08-25",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202608/t20260825_5321815.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1083,8 +287,8 @@
    "date": "2026-08-25",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202608/3b88bcdad4544cb7952dc65b1a1a83ae.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -1093,8 +297,8 @@
    "date": "2026-08-25",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3935111.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1103,8 +307,8 @@
    "date": "2026-08-25",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026090115252731633/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1113,18 +317,8 @@
    "date": "2026-08-27",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202608/5b4279e1a3724778aa1558e2f8962485.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "上海科技委员会",
-   "kind": "gov",
-   "title": "上海市科学技术委员会关于发布2026年度基础研究计划“探索者计划”（第二批）项目申报指南的通知",
-   "date": "2026-08-28",
-   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260828/14ffb521b3314d59b370e2087e73235e.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1133,8 +327,8 @@
    "date": "2026-08-28",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202608/t20260828_5325850.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1143,8 +337,8 @@
    "date": "2026-08-28",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202608/t20260828_5325751.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖南科技厅",
@@ -1153,8 +347,8 @@
    "date": "2026-08-28",
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/zcfg/tgfxwj/202609/t20260920_34068608.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖南科技厅",
@@ -1163,8 +357,8 @@
    "date": "2026-08-28",
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/zcfg/tgfxwj/202609/t20260909_34059956.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖南科技厅",
@@ -1173,8 +367,8 @@
    "date": "2026-08-28",
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/zcfg/tgfxwj/202608/t20260807_34041701.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖南科技厅",
@@ -1183,8 +377,8 @@
    "date": "2026-08-28",
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/zcfg/tgfxwj/202607/t20260715_34027061.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖南科技厅",
@@ -1193,8 +387,18 @@
    "date": "2026-08-28",
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/zcfg/tgfxwj/202606/t20260615_34002181.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "湖南省科学技术厅 湖南省财政厅 湖南省教育厅关于印发《湖南省新购大型科研仪器设备查重评议实施细则》的通知",
+   "date": "2026-08-28",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/zcfg/tgfxwj/202606/t20260623_34009641.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市发展和改革局",
@@ -1203,8 +407,8 @@
    "date": "2026-08-28",
    "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3936324.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -1213,8 +417,8 @@
    "date": "2026-08-28",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202608/t20260828_90793391.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1223,8 +427,8 @@
    "date": "2026-08-31",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202608/t20260831_5327076.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1233,8 +437,18 @@
    "date": "2026-08-31",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202608/t20260831_5326817.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "湖南省科学技术厅  湖南省财政厅关于开展2025年度全省地方财政科学技术支出统计调查工作的通知",
+   "date": "2026-08-31",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202608/t20260831_34053802.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市发展和改革局",
@@ -1243,8 +457,8 @@
    "date": "2026-08-31",
    "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3936830.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -1253,18 +467,8 @@
    "date": "2026-08-31",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3936645.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "上海科技委员会",
-   "kind": "gov",
-   "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“前沿与交叉技术领域”项目申报指南的通知",
-   "date": "2026-09-01",
-   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260901/7df4ba1484104c909b04d1fac49e9e35.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1273,8 +477,8 @@
    "date": "2026-09-01",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260901_5327625.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市发展和改革局",
@@ -1283,8 +487,28 @@
    "date": "2026-09-01",
    "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3937261.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于发布2027年度湖南省重大科技攻关“揭榜挂帅”制项目榜单“高空风力发电系统氦气替代关键技术研究”的通知",
+   "date": "2026-09-02",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260902_34055514.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于中国工程科技发展战略湖南研究院2026年第二批拟立项项目的公示（公示结束）",
+   "date": "2026-09-03",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260903_34056474.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1293,8 +517,8 @@
    "date": "2026-09-03",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260903_7208955.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1303,8 +527,18 @@
    "date": "2026-09-04",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/0cf780e7050e4f879dd0280c08bb03bb.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于烟花爆竹产业中试基地项目的公示（公示结束）",
+   "date": "2026-09-04",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260904_34057233.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1313,8 +547,8 @@
    "date": "2026-09-04",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260904_7209465.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1323,8 +557,8 @@
    "date": "2026-09-04",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260904_7209456.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -1333,8 +567,8 @@
    "date": "2026-09-04",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260904_16033963.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "吉林科技厅",
@@ -1343,8 +577,8 @@
    "date": "2026-09-07",
    "url": "http://kjt.jl.gov.cn/xwzx/tztg/202609/t20260907_9701859.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1353,8 +587,8 @@
    "date": "2026-09-07",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/40a88c5f388046bb9821098c09516f44.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1363,8 +597,18 @@
    "date": "2026-09-07",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/4357e8c6ff89468a97aac8558dab280c.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于省科技创新计划项目重大事项变更的公示（公示结束）",
+   "date": "2026-09-07",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260907_34058296.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市发展和改革局",
@@ -1373,8 +617,8 @@
    "date": "2026-09-07",
    "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3938880.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1383,8 +627,8 @@
    "date": "2026-09-07",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260907_7210060.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -1393,8 +637,8 @@
    "date": "2026-09-07",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11715",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -1403,8 +647,28 @@
    "date": "2026-09-08",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/8/fad8adccd6344da2a254358203e97c63.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于省科技创新计划项目重大事项变更的公示（公示结束）",
+   "date": "2026-09-08",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260908_34058987.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于公布湖南省2026年第二批入库科技型中小企业名单的通知",
+   "date": "2026-09-08",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260908_34058752.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -1413,8 +677,8 @@
    "date": "2026-09-08",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3939011.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1423,8 +687,8 @@
    "date": "2026-09-08",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260908_7210282.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部",
@@ -1433,8 +697,8 @@
    "date": "2026-09-08",
    "url": "http://www.most.gov.cn/tztg/202609/t20260908_197283.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.ccf.org.cn",
@@ -1453,8 +717,8 @@
    "date": "2026-09-09",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260909/83c8056e701c450cbaf1ef2313bd6609.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部火炬高技术产业开发中心",
@@ -1463,8 +727,8 @@
    "date": "2026-09-09",
    "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202609/9a386109c728486bb5baf7dd3410519e.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1473,8 +737,8 @@
    "date": "2026-09-09",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026090910213237171/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -1483,8 +747,8 @@
    "date": "2026-09-09",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260909_16055498.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -1493,18 +757,8 @@
    "date": "2026-09-09",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260909_16053452.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省科学技术厅",
-   "kind": "gov",
-   "title": "广东省科学技术厅关于组织参加第九届中国国际进口博览会的通知",
-   "date": "2026-09-10",
-   "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4954312.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1513,8 +767,18 @@
    "date": "2026-09-10",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28120916.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "湖南省科学技术厅 湖南省商务厅 湖南省财政厅 国家税务总局湖南省税务局 湖南省发展和改革委员会 关于组织开展湖南省2026年技术先进型服务企业认定工作的通知",
+   "date": "2026-09-10",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260910_34061407.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1523,8 +787,8 @@
    "date": "2026-09-10",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260910_7211778.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1533,8 +797,8 @@
    "date": "2026-09-10",
    "url": "http://kjjl.kjt.fujian.gov.cn/showfilepage.do?ID=E7E0A6D42B4FD49BD48D885823D973EF",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -1543,8 +807,8 @@
    "date": "2026-09-10",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260910_7211650.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1553,8 +817,8 @@
    "date": "2026-09-10",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026091011214681483/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1563,8 +827,8 @@
    "date": "2026-09-11",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28124944.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1573,8 +837,8 @@
    "date": "2026-09-11",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28123985.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1583,8 +847,8 @@
    "date": "2026-09-11",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28123875.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部火炬高技术产业开发中心",
@@ -1593,8 +857,8 @@
    "date": "2026-09-11",
    "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202609/89806a22010b43c1beee43f8fadde52a.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -1603,8 +867,8 @@
    "date": "2026-09-11",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11721",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -1613,8 +877,8 @@
    "date": "2026-09-14",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/14/e4b7c4b11d8a4725a4b83ad6543462ce.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -1623,8 +887,8 @@
    "date": "2026-09-14",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4955299.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1633,8 +897,8 @@
    "date": "2026-09-14",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28129803.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1643,8 +907,8 @@
    "date": "2026-09-14",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/2665648ab1e0460ba2373090b3fa2800.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1653,8 +917,8 @@
    "date": "2026-09-14",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/c40b13ee97e34f97b8db0665b8234792.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -1663,8 +927,8 @@
    "date": "2026-09-14",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3940570.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -1673,8 +937,8 @@
    "date": "2026-09-14",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260914_16077918.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -1683,8 +947,8 @@
    "date": "2026-09-14",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260914_16077018.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -1693,8 +957,8 @@
    "date": "2026-09-14",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260914_16074395.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -1703,8 +967,8 @@
    "date": "2026-09-14",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11726",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -1713,8 +977,8 @@
    "date": "2026-09-14",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11725",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -1723,8 +987,8 @@
    "date": "2026-09-15",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/15/2a0571d5f0a248c8850bee944cd39914.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -1733,18 +997,8 @@
    "date": "2026-09-15",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3941179.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "2026年度省科技厅与市（州）联动产业科技创新项目拟立项项目（第一批）公示",
-   "date": "2026-09-15",
-   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260915_90872957.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -1753,8 +1007,8 @@
    "date": "2026-09-15",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11733",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.heprize.org",
@@ -1793,8 +1047,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28138088.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1803,8 +1057,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28138053.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -1813,8 +1067,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28137959.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1823,8 +1077,8 @@
    "date": "2026-09-16",
    "url": "https://gdj.xinjiang.gov.cn/xjgdj/gsgg/202609/2a73dea174da4e55ad99188e55a09dba.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -1833,8 +1087,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260916_6015360.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -1843,8 +1097,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260916_6015202.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -1853,8 +1107,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260916_6015020.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -1863,8 +1117,8 @@
    "date": "2026-09-16",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3945908.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -1873,8 +1127,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260916_90878191.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1883,8 +1137,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026091616564918736/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1893,8 +1147,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026091615090449536/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1903,8 +1157,8 @@
    "date": "2026-09-16",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026091810500221332/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -1913,8 +1167,8 @@
    "date": "2026-09-17",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/c6845891a05545e9a8a50ce6a30cb3fc.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -1923,8 +1177,8 @@
    "date": "2026-09-18",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/18/7cd57c39bd4a4fa79ace36f817c10e4a.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -1933,8 +1187,8 @@
    "date": "2026-09-18",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/18/ae78e2444766482e91538646341f90c9.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1943,18 +1197,8 @@
    "date": "2026-09-18",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260920_5349484.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省工业和信息化厅",
-   "kind": "gov",
-   "title": "广东省工业和信息化厅关于开展服务型制造创新发展高地储备入库工作的通知",
-   "date": "2026-09-18",
-   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4957656.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -1963,8 +1207,8 @@
    "date": "2026-09-18",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4957530.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -1973,8 +1217,8 @@
    "date": "2026-09-18",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260918_90896335.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.caai.cn",
@@ -2023,18 +1267,8 @@
    "date": "2026-09-19",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260920_5349486.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省工业和信息化厅",
-   "kind": "gov",
-   "title": "广东省工业和信息化厅转发工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—西安站”活动的通知",
-   "date": "2026-09-19",
-   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4958137.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -2043,8 +1277,8 @@
    "date": "2026-09-20",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260920_5349853.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2053,28 +1287,8 @@
    "date": "2026-09-20",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4959716.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省工业和信息化厅",
-   "kind": "gov",
-   "title": "广东省工业和信息化厅关于组织申报2026年全国工业领域电力需求侧管理典型案例的通知",
-   "date": "2026-09-20",
-   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4958582.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省工业和信息化厅",
-   "kind": "gov",
-   "title": "广东省工业和信息化厅 广东省科学技术厅 广东省财政厅 国家税务总局广东省税务局关于开展2026年度享受增值税加计抵减政策的先进制造业企业名单制定工作的通知",
-   "date": "2026-09-20",
-   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4958569.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2083,8 +1297,8 @@
    "date": "2026-09-20",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260920_6018701.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2093,8 +1307,8 @@
    "date": "2026-09-20",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260920_6017678.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2103,8 +1317,8 @@
    "date": "2026-09-20",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260920_6017668.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -2113,8 +1327,8 @@
    "date": "2026-09-20",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260920_16105034.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -2123,8 +1337,8 @@
    "date": "2026-09-20",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11742",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -2133,8 +1347,8 @@
    "date": "2026-09-20",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11740",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -2143,8 +1357,8 @@
    "date": "2026-09-20",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11741",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -2153,8 +1367,8 @@
    "date": "2026-09-21",
    "url": "http://kjt.sc.gov.cn/kjt/xzgfxwj/2026/9/21/91cbd9080b08469c9d453cc3c7675e3d.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -2163,8 +1377,8 @@
    "date": "2026-09-21",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260921_5351162.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2173,8 +1387,8 @@
    "date": "2026-09-21",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4959713.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2183,8 +1397,8 @@
    "date": "2026-09-21",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4958690.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2193,8 +1407,8 @@
    "date": "2026-09-21",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4958243.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -2203,8 +1417,8 @@
    "date": "2026-09-21",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260921_90925793.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -2213,8 +1427,18 @@
    "date": "2026-09-21",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260921_90925711.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "NSFC",
+   "kind": "gov",
+   "title": "关于发布2026年度国家自然科学基金专项项目——“人工智能驱动的疾病相关肠道微生态...",
+   "date": "2026-09-22",
+   "url": "https://www.nsfc.gov.cn/p1/3381/2824/142654.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2223,8 +1447,8 @@
    "date": "2026-09-22",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260922/10c43a655f9c4ca9b21c5a29ebbc2b63.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2233,8 +1457,8 @@
    "date": "2026-09-22",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260922/4692e55da0a6488ba5fd6ebc6b4d5410.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2243,8 +1467,8 @@
    "date": "2026-09-22",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260922/3739b06000ee4d5bae0a6cf4967dd5d5.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2253,8 +1477,8 @@
    "date": "2026-09-22",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260922/99a0c41d251e4beb86c464beff951f91.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2263,8 +1487,8 @@
    "date": "2026-09-22",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260922/4cd364fabc044faebeb3f7ebf5189b6c.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -2273,8 +1497,8 @@
    "date": "2026-09-22",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260922_5353933.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2283,8 +1507,8 @@
    "date": "2026-09-22",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4959711.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2293,8 +1517,8 @@
    "date": "2026-09-22",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4959704.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2303,8 +1527,8 @@
    "date": "2026-09-22",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4959224.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -2313,8 +1537,8 @@
    "date": "2026-09-22",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28159730.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -2323,8 +1547,8 @@
    "date": "2026-09-22",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28159599.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市发展和改革局",
@@ -2333,8 +1557,8 @@
    "date": "2026-09-22",
    "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3944779.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -2343,8 +1567,8 @@
    "date": "2026-09-22",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260922_90930567.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -2353,8 +1577,8 @@
    "date": "2026-09-22",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026092216451452449/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -2363,8 +1587,8 @@
    "date": "2026-09-22",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026092209361648141/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -2373,8 +1597,8 @@
    "date": "2026-09-22",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11748",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.ccf.org.cn",
@@ -2393,8 +1617,8 @@
    "date": "2026-09-23",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260923/c261625bac1c4a67a05b5dfc2a3b1b3d.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2403,8 +1627,8 @@
    "date": "2026-09-23",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260923/a2b0a099ec4a4ddca3613b46011a74d4.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -2413,8 +1637,8 @@
    "date": "2026-09-23",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260923_5354630.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2423,8 +1647,8 @@
    "date": "2026-09-23",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4959429.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -2433,18 +1657,8 @@
    "date": "2026-09-23",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260923_4152747.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅关于2027年海南省科技特派员项目形式审查结果的公示",
-   "date": "2026-09-23",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260923_4152736.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2453,8 +1667,8 @@
    "date": "2026-09-23",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260923_6020747.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2463,8 +1677,8 @@
    "date": "2026-09-23",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260922_6020453.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -2473,8 +1687,8 @@
    "date": "2026-09-23",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3944812.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -2483,8 +1697,8 @@
    "date": "2026-09-23",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3944768.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部火炬高技术产业开发中心",
@@ -2493,8 +1707,8 @@
    "date": "2026-09-23",
    "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202609/753d99fde6b643c0baa254fd73a2d489.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部火炬高技术产业开发中心",
@@ -2503,8 +1717,8 @@
    "date": "2026-09-23",
    "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202609/186d5db2584c471a8c27c214fa79f667.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -2513,8 +1727,8 @@
    "date": "2026-09-23",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260923_90935041.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -2523,8 +1737,8 @@
    "date": "2026-09-23",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11751",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2533,8 +1747,18 @@
    "date": "2026-09-24",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/142834.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "NSFC",
+   "kind": "gov",
+   "title": "《2027年度国家自然科学基金项目指南》征订通知",
+   "date": "2026-09-24",
+   "url": "https://www.nsfc.gov.cn/p1/3381/2824/142831.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2543,8 +1767,8 @@
    "date": "2026-09-24",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260924/fa639d0dea484c8dbebddc2e9d901376.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2553,8 +1777,8 @@
    "date": "2026-09-24",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4961465.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2563,8 +1787,8 @@
    "date": "2026-09-24",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4960472.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2573,8 +1797,8 @@
    "date": "2026-09-24",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4960459.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2583,8 +1807,8 @@
    "date": "2026-09-24",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4959902.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -2593,8 +1817,8 @@
    "date": "2026-09-24",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28169263.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -2603,8 +1827,18 @@
    "date": "2026-09-24",
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/0f846fea177a4092bc752abde9676f1c.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "湖南科技厅",
+   "kind": "gov",
+   "title": "关于省科技创新计划项目重大事项变更的公示",
+   "date": "2026-09-24",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260924_34071836.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -2613,8 +1847,8 @@
    "date": "2026-09-24",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260924_7218142.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -2623,8 +1857,8 @@
    "date": "2026-09-24",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260924_7218139.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -2633,8 +1867,8 @@
    "date": "2026-09-24",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260924_7218132.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -2643,8 +1877,8 @@
    "date": "2026-09-24",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260924_16128089.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2653,8 +1887,8 @@
    "date": "2026-09-28",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143051.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -2663,8 +1897,8 @@
    "date": "2026-09-28",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/28/251823e1cea348cba82317dbf6b8f43a.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -2673,8 +1907,8 @@
    "date": "2026-09-28",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260928_5359117.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2683,8 +1917,8 @@
    "date": "2026-09-28",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4962777.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2693,8 +1927,8 @@
    "date": "2026-09-28",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4962768.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2703,8 +1937,8 @@
    "date": "2026-09-28",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4962396.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2713,8 +1947,8 @@
    "date": "2026-09-28",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4961370.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -2723,8 +1957,8 @@
    "date": "2026-09-28",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28173244.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -2733,8 +1967,8 @@
    "date": "2026-09-28",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260928_4154597.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -2743,8 +1977,8 @@
    "date": "2026-09-28",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260928_4154575.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2753,8 +1987,8 @@
    "date": "2026-09-28",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260928_6023038.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "科学技术部",
@@ -2763,8 +1997,8 @@
    "date": "2026-09-28",
    "url": "http://www.most.gov.cn/tztg/202609/t20260928_197418.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -2773,8 +2007,8 @@
    "date": "2026-09-28",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026093010453952231/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -2783,8 +2017,8 @@
    "date": "2026-09-28",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260928_16141594.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2793,8 +2027,8 @@
    "date": "2026-09-29",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143111.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2803,8 +2037,8 @@
    "date": "2026-09-29",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143053.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2813,8 +2047,8 @@
    "date": "2026-09-29",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/zxzj/index.html#rightSidebar",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -2823,8 +2057,8 @@
    "date": "2026-09-29",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260929/c4c76bf8e96c4e04b60e9a593c4d2916.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -2833,8 +2067,8 @@
    "date": "2026-09-29",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/29/20b8a6f8d5984365aa0a660596fe245b.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "四川科技厅",
@@ -2843,8 +2077,8 @@
    "date": "2026-09-29",
    "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/9/29/a5e771c525064268b51081da0ff3e60d.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2853,8 +2087,8 @@
    "date": "2026-09-29",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4961586.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2863,8 +2097,8 @@
    "date": "2026-09-29",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4961585.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2873,8 +2107,8 @@
    "date": "2026-09-29",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4961584.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -2883,8 +2117,8 @@
    "date": "2026-09-29",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260929_4155028.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -2893,8 +2127,8 @@
    "date": "2026-09-29",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260929_6024939.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -2903,8 +2137,8 @@
    "date": "2026-09-29",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260929_7220051.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -2913,8 +2147,8 @@
    "date": "2026-09-29",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260929_16146634.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -2923,8 +2157,8 @@
    "date": "2026-09-29",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11758",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2933,8 +2167,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143182.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2943,8 +2177,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143180.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2953,8 +2187,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143178.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2963,8 +2197,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143176.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2973,8 +2207,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143174.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2983,8 +2217,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143120.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2993,8 +2227,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143118.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -3003,8 +2237,8 @@
    "date": "2026-09-30",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143116.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -3013,8 +2247,8 @@
    "date": "2026-09-30",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260930/82ee2ff644ec4f90b88cb8a338493112.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -3023,8 +2257,8 @@
    "date": "2026-09-30",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4962875.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -3033,8 +2267,8 @@
    "date": "2026-09-30",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4962873.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -3043,8 +2277,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28187408.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -3053,8 +2287,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28186949.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广西科技厅",
@@ -3063,8 +2297,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28183536.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -3073,8 +2307,8 @@
    "date": "2026-09-30",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260930_4156814.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -3083,8 +2317,8 @@
    "date": "2026-09-30",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260930_4156717.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "海南科技厅",
@@ -3093,8 +2327,8 @@
    "date": "2026-09-30",
    "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202609/t20260930_4156562.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -3103,8 +2337,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260930_6026461.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -3113,8 +2347,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202609/t20260930_6026113.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市发展和改革局",
@@ -3123,8 +2357,8 @@
    "date": "2026-09-30",
    "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3947060.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市商务局",
@@ -3133,8 +2367,8 @@
    "date": "2026-09-30",
    "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3946741.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -3143,8 +2377,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260930_7220915.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -3153,8 +2387,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202609/t20260930_7220626.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -3163,8 +2397,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260930_90956470.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -3173,8 +2407,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202609/t20260930_90954659.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -3183,18 +2417,8 @@
    "date": "2026-09-30",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026100815402050433/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局  重庆市财政局关于印发《关于支持重庆市科技成果转化的若干财政政策措施（试行）》的通知",
-   "date": "2026-09-30",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202609/t20260930_16151764.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "青海科技厅",
@@ -3203,8 +2427,8 @@
    "date": "2026-09-30",
    "url": "https://kjt.qinghai.gov.cn/content/show/id/11760",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -3212,6 +2436,66 @@
    "title": "关于发布2026年度国家自然科学基金专项项目——“脑机接口大模型解码算法研发及其在...",
    "date": "2026-10-08",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143611.html",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "上海科技委员会",
+   "kind": "gov",
+   "title": "关于发布2026年度关键技术研发计划“太赫兹”项目申报指南的通知",
+   "date": "2026-10-08",
+   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20261008/2e92d598dd6946d8a5de431c5ea99524.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "上海科技委员会",
+   "kind": "gov",
+   "title": "上海市科学技术委员会关于发布2026年度基础研究计划“上海市自然科学基金（重点支撑类—第三批）”项目申报指南的通知",
+   "date": "2026-10-08",
+   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20261008/528a610697fe4708b7630ef8d709e8be.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "宁夏科技厅",
+   "kind": "gov",
+   "title": "》 关于公开征求《宁夏回族自治区技术研发项目管理办法（征求意见稿）》意见的通知",
+   "date": "2026-10-08",
+   "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202610/t20261008_5365720.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "宁夏科技厅",
+   "kind": "gov",
+   "title": "》 关于公开征求《宁夏回族自治区科技专家库管理办法（征求意见稿）》意见的通知",
+   "date": "2026-10-08",
+   "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202610/t20261008_5365713.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "广东省工业和信息化厅",
+   "kind": "gov",
+   "title": "广东省工业和信息化厅关于河源德润钢铁有限公司电炉炼钢建设项目产能置换方案的公示",
+   "date": "2026-10-08",
+   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4963782.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "广东省科学技术厅",
+   "kind": "gov",
+   "title": "广东省科学技术厅关于面向高校院所科技企业征集科技成果和技术需求的通知",
+   "date": "2026-10-08",
+   "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4963717.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -3223,8 +2507,8 @@
    "date": "2026-10-08",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202610/t20261008_6027831.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "珠海市人力资源和社会保障局",
@@ -3233,8 +2517,8 @@
    "date": "2026-10-08",
    "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3947513.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -3243,8 +2527,8 @@
    "date": "2026-10-08",
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202610/t20261008_7221933.htm",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -3253,8 +2537,8 @@
    "date": "2026-10-08",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202610/t20261008_90965184.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -3263,8 +2547,8 @@
    "date": "2026-10-08",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026100816170250533/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -3273,8 +2557,8 @@
    "date": "2026-10-08",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261008_16199152.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "重庆市科学技术局",
@@ -3283,8 +2567,8 @@
    "date": "2026-10-08",
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261008_16197624.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.ccf.org.cn",
@@ -3293,8 +2577,8 @@
    "date": "2026-10-08",
    "url": "https://www.ccf.org.cn/Focus/2026-10-08/938403.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.ccf.org.cn",
@@ -3303,21 +2587,81 @@
    "date": "2026-10-08",
    "url": "https://www.ccf.org.cn/Focus/2026-10-08/938404.shtml",
    "hkmo": false,
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "上海科技委员会",
+   "kind": "gov",
+   "title": "上海市科学技术委员会关于发布2026年度关键技术“先进核能技术攻关”项目申报指南的通知",
+   "date": "2026-10-09",
+   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20261009/9d8046e371d3447a8f61c97201c84535.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "广东省工业和信息化厅",
+   "kind": "gov",
+   "title": "广东省工业和信息化厅关于无线电干扰查处专业技术支撑服务（2026—2027年）项目采购结果的公示",
+   "date": "2026-10-09",
+   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4964106.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "广东省工业和信息化厅",
+   "kind": "gov",
+   "title": "广东省工业和信息化厅 交通银行广东省分行印发产业培育融资服务方案的通知",
+   "date": "2026-10-09",
+   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4964002.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "广东省工业和信息化厅",
+   "kind": "gov",
+   "title": "广东省工业和信息化厅关于组织开展2026年生物制造标志性产品征集工作的通知",
+   "date": "2026-10-09",
+   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4963916.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "海南科技厅",
+   "kind": "gov",
+   "title": "海南省科学技术厅 海南省农业农村厅关于2026年省重点研发农业关键核心技术攻关立项项目和经费安排的通知",
+   "date": "2026-10-09",
+   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202610/t20261009_4158395.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "贵州科技厅",
+   "kind": "gov",
+   "title": "关于顺延2027年度贵州省科技支撑计划（一般项目）和临床专项申报系统关闭时间的提示",
+   "date": "2026-10-09",
+   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202610/t20261009_90969913.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "重庆市科学技术局",
+   "kind": "gov",
+   "title": "重庆市科学技术局关于2026年第九批入库科技型企业名单的公告",
+   "date": "2026-10-09",
+   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261009_16206691.html",
+   "hkmo": false,
    "isNew": true,
    "via": "url"
   }
  ],
  "hkmoHits": [
-  {
-   "site": "珠海市财政局",
-   "kind": "gov",
-   "title": "珠海市财政局 国家税务总局珠海市税务局 珠海市民政局 国家税务总局横琴粤澳深度合作区税务局关于公益性社会组织捐赠税前扣除资格名单的公告",
-   "date": "2026-04-01",
-   "url": "https://caizheng.zhuhai.gov.cn/ljcz/tzgg/content/post_3891983.html",
-   "hkmo": true,
-   "isNew": true,
-   "via": "url"
-  },
   {
    "site": "广东省科学技术厅",
    "kind": "gov",
@@ -3325,8 +2669,8 @@
    "date": "2026-09-18",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4957102.html",
    "hkmo": true,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   }
  ],
  "sites": [
@@ -3336,7 +2680,7 @@
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/zntg.html",
    "ok": true,
    "code": 200,
-   "ms": 1582,
+   "ms": 692,
    "count": 15
   },
   {
@@ -3345,7 +2689,7 @@
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/",
    "ok": true,
    "code": 200,
-   "ms": 2186,
+   "ms": 2039,
    "count": 15
   },
   {
@@ -3354,7 +2698,7 @@
    "url": "http://kjt.yn.gov.cn/list-12-2.html",
    "ok": true,
    "code": 301,
-   "ms": 15348,
+   "ms": 15549,
    "count": 0
   },
   {
@@ -3363,8 +2707,8 @@
    "url": "http://kjt.jl.gov.cn/",
    "ok": true,
    "code": 200,
-   "ms": 5047,
-   "count": 9
+   "ms": 5232,
+   "count": 1
   },
   {
    "name": "四川科技厅",
@@ -3372,8 +2716,8 @@
    "url": "http://kjt.sc.gov.cn/kjt/gstz/newschild.shtml",
    "ok": true,
    "code": 200,
-   "ms": 4964,
-   "count": 12
+   "ms": 3365,
+   "count": 9
   },
   {
    "name": "国家科技管理信息系统公共服务平台",
@@ -3381,8 +2725,8 @@
    "url": "https://service.most.gov.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1064,
-   "count": 1
+   "ms": 1557,
+   "count": 0
   },
   {
    "name": "宁夏科技厅",
@@ -3390,8 +2734,8 @@
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 3128,
-   "count": 13
+   "ms": 4255,
+   "count": 15
   },
   {
    "name": "山东科技厅",
@@ -3399,7 +2743,7 @@
    "url": "http://kjt.shandong.gov.cn/col/col13360/index.html",
    "ok": true,
    "code": 200,
-   "ms": 2322,
+   "ms": 1521,
    "count": 0
   },
   {
@@ -3408,7 +2752,7 @@
    "url": "http://gdii.gd.gov.cn/zwgk/tzgg1011/index.html",
    "ok": true,
    "code": 200,
-   "ms": 1206,
+   "ms": 1593,
    "count": 14
   },
   {
@@ -3417,7 +2761,7 @@
    "url": "http://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 1153,
+   "ms": 1362,
    "count": 15
   },
   {
@@ -3426,7 +2770,7 @@
    "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 2310,
+   "ms": 2259,
    "count": 15
   },
   {
@@ -3435,8 +2779,8 @@
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/common_list.shtml",
    "ok": true,
    "code": 200,
-   "ms": 1438,
-   "count": 14
+   "ms": 2197,
+   "count": 13
   },
   {
    "name": "横琴资讯",
@@ -3444,7 +2788,7 @@
    "url": "http://www.hengqin.gov.cn/macao_zh_hans/zwgk/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 4681,
+   "ms": 2601,
    "count": 0
   },
   {
@@ -3453,7 +2797,7 @@
    "url": "http://kjt.jiangxi.gov.cn/col/col27029/index.html",
    "ok": true,
    "code": 200,
-   "ms": 2095,
+   "ms": 1978,
    "count": 0
   },
   {
@@ -3462,7 +2806,7 @@
    "url": "http://kjt.zj.gov.cn/col/col1229225203/index.html",
    "ok": true,
    "code": 200,
-   "ms": 3079,
+   "ms": 2811,
    "count": 0
   },
   {
@@ -3471,8 +2815,8 @@
    "url": "http://dost.hainan.gov.cn/xxgk/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 3593,
-   "count": 9
+   "ms": 5296,
+   "count": 8
   },
   {
    "name": "湖北科技厅",
@@ -3480,8 +2824,8 @@
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 2876,
-   "count": 15
+   "ms": 3074,
+   "count": 13
   },
   {
    "name": "湖南科技厅",
@@ -3489,7 +2833,7 @@
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/index.html",
    "ok": true,
    "code": 200,
-   "ms": 2392,
+   "ms": 2725,
    "count": 15
   },
   {
@@ -3498,7 +2842,7 @@
    "url": "https://zhsme.org.cn/policy/toPlicyMain?type=12",
    "ok": true,
    "code": 200,
-   "ms": 2355,
+   "ms": 2277,
    "count": 0
   },
   {
@@ -3507,7 +2851,7 @@
    "url": "https://zhsme.org.cn/kfsys/laboratory/view/7876f501-8434-4fae-9dfb-278aa3f2a7a9",
    "ok": true,
    "code": 200,
-   "ms": 1894,
+   "ms": 928,
    "count": 0
   },
   {
@@ -3516,8 +2860,8 @@
    "url": "http://zhrsj.zhuhai.gov.cn/zc/zcjd/",
    "ok": true,
    "code": 200,
-   "ms": 3163,
-   "count": 11
+   "ms": 2380,
+   "count": 3
   },
   {
    "name": "珠海市人民政府",
@@ -3525,7 +2869,7 @@
    "url": "http://www.zhuhai.gov.cn/zfxxgk/zfxxgkml/",
    "ok": true,
    "code": 200,
-   "ms": 3725,
+   "ms": 3303,
    "count": 0
   },
   {
@@ -3534,8 +2878,8 @@
    "url": "http://fgj.zhuhai.gov.cn/zwgk/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 2842,
-   "count": 7
+   "ms": 3930,
+   "count": 6
   },
   {
    "name": "珠海市商务局",
@@ -3543,8 +2887,8 @@
    "url": "http://swj.zhuhai.gov.cn/zwgk/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 2611,
-   "count": 11
+   "ms": 2765,
+   "count": 10
   },
   {
    "name": "珠海市工业信息化局",
@@ -3552,7 +2896,7 @@
    "url": "http://www.zhuhai.gov.cn/gxj/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 5255,
+   "ms": 3716,
    "count": 0
   },
   {
@@ -3561,7 +2905,7 @@
    "url": "http://www.zhuhai.gov.cn/scjgj/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 2521,
+   "ms": 2583,
    "count": 0
   },
   {
@@ -3570,7 +2914,7 @@
    "url": "http://zhjy.zhuhai.gov.cn/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 2696,
+   "ms": 3447,
    "count": 0
   },
   {
@@ -3579,7 +2923,7 @@
    "url": "https://www.zhsk.gov.cn/show/channel/46",
    "ok": true,
    "code": 200,
-   "ms": 2345,
+   "ms": 2690,
    "count": 0
   },
   {
@@ -3588,7 +2932,7 @@
    "url": "http://www.zhast.com.cn/tzgg/index_1.html",
    "ok": true,
    "code": 200,
-   "ms": 2059,
+   "ms": 2123,
    "count": 0
   },
   {
@@ -3597,7 +2941,7 @@
    "url": "http://www.zhuhai.gov.cn/kjcxj/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 2659,
+   "ms": 3222,
    "count": 0
   },
   {
@@ -3606,7 +2950,7 @@
    "url": "http://sc.zhsti.net/",
    "ok": true,
    "code": 200,
-   "ms": 2354,
+   "ms": 1899,
    "count": 0
   },
   {
@@ -3615,8 +2959,8 @@
    "url": "http://caizheng.zhuhai.gov.cn/ljcz/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 3832,
-   "count": 15
+   "ms": 4193,
+   "count": 0
   },
   {
    "name": "珠海市软件行业协会",
@@ -3624,7 +2968,7 @@
    "url": "http://www.zsia.org.cn/index.php/news/titlelist/cid/37.html",
    "ok": true,
    "code": 200,
-   "ms": 1892,
+   "ms": 4450,
    "count": 2
   },
   {
@@ -3633,7 +2977,7 @@
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 1313,
+   "ms": 2585,
    "count": 15
   },
   {
@@ -3642,8 +2986,8 @@
    "url": "http://www.most.gov.cn/tztg/",
    "ok": true,
    "code": 200,
-   "ms": 6110,
-   "count": 15
+   "ms": 1753,
+   "count": 3
   },
   {
    "name": "科学技术部火炬高技术产业开发中心",
@@ -3651,8 +2995,8 @@
    "url": "http://www.chinatorch.gov.cn/",
    "ok": true,
    "code": 200,
-   "ms": 2023,
-   "count": 15
+   "ms": 1262,
+   "count": 5
   },
   {
    "name": "贵州科技厅",
@@ -3660,8 +3004,8 @@
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/",
    "ok": true,
    "code": 200,
-   "ms": 6070,
-   "count": 14
+   "ms": 5676,
+   "count": 12
   },
   {
    "name": "辽宁科技厅",
@@ -3669,8 +3013,8 @@
    "url": "http://kjt.ln.gov.cn/tztg/gztz/",
    "ok": true,
    "code": 200,
-   "ms": 11707,
-   "count": 15
+   "ms": 5740,
+   "count": 14
   },
   {
    "name": "重庆市科学技术局",
@@ -3678,7 +3022,7 @@
    "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 7533,
+   "ms": 6521,
    "count": 13
   },
   {
@@ -3687,7 +3031,7 @@
    "url": "http://kjt.qinghai.gov.cn/content/lists/cid/7/pid/26/page/",
    "ok": true,
    "code": 200,
-   "ms": 3227,
+   "ms": 3992,
    "count": 12
   },
   {
@@ -3696,7 +3040,7 @@
    "url": "https://zhuhai.cnippc.com.cn/",
    "ok": false,
    "code": 0,
-   "ms": 15025,
+   "ms": 15021,
    "count": 0
   },
   {
@@ -3705,7 +3049,7 @@
    "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/",
    "ok": false,
    "code": 403,
-   "ms": 2590,
+   "ms": 6590,
    "count": 0
   },
   {
@@ -3714,7 +3058,7 @@
    "url": "http://kw.beijing.gov.cn/col/col736/index.html",
    "ok": false,
    "code": 404,
-   "ms": 2681,
+   "ms": 3660,
    "count": 0
   },
   {
@@ -3723,7 +3067,7 @@
    "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/",
    "ok": false,
    "code": 403,
-   "ms": 2925,
+   "ms": 3832,
    "count": 0
   },
   {
@@ -3732,7 +3076,7 @@
    "url": "http://kjt.ah.gov.cn/kjzx/tzgg/index.html",
    "ok": false,
    "code": 403,
-   "ms": 1888,
+   "ms": 1998,
    "count": 0
   },
   {
@@ -3741,7 +3085,7 @@
    "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/tzgg_11716/",
    "ok": false,
    "code": 0,
-   "ms": 15019,
+   "ms": 15023,
    "count": 0
   },
   {
@@ -3750,7 +3094,7 @@
    "url": "http://std.jiangsu.gov.cn/col/col82540/index.html",
    "ok": false,
    "code": 0,
-   "ms": 15022,
+   "ms": 15020,
    "count": 0
   },
   {
@@ -3759,7 +3103,7 @@
    "url": "https://kjt.hebei.gov.cn/www/xwzx15/tzgg35/index.html",
    "ok": false,
    "code": 404,
-   "ms": 6744,
+   "ms": 3745,
    "count": 0
   },
   {
@@ -3768,7 +3112,7 @@
    "url": "http://kjt.henan.gov.cn/tzgg/",
    "ok": false,
    "code": 403,
-   "ms": 624,
+   "ms": 526,
    "count": 0
   },
   {
@@ -3777,7 +3121,7 @@
    "url": "http://zwgk.zhxz.gov.cn/",
    "ok": false,
    "code": 0,
-   "ms": 347,
+   "ms": 675,
    "count": 0
   },
   {
@@ -3786,7 +3130,7 @@
    "url": "http://www.zhsti.net/s_show.aspx?id=04-01-01",
    "ok": false,
    "code": 404,
-   "ms": 1145,
+   "ms": 1944,
    "count": 0
   },
   {
@@ -3795,7 +3139,7 @@
    "url": "http://kjt.gansu.gov.cn/kjt/c111529/info_list.shtml",
    "ok": false,
    "code": 412,
-   "ms": 3158,
+   "ms": 2157,
    "count": 0
   },
   {
@@ -3804,7 +3148,7 @@
    "url": "http://sti.xizang.gov.cn/xxgk/tzgg/",
    "ok": false,
    "code": 404,
-   "ms": 2436,
+   "ms": 1632,
    "count": 0
   },
   {
@@ -3813,7 +3157,7 @@
    "url": "https://kjt.shaanxi.gov.cn/view/iList.jsp?cat_id=221",
    "ok": false,
    "code": 404,
-   "ms": 1781,
+   "ms": 2215,
    "count": 0
   },
   {
@@ -3822,7 +3166,7 @@
    "url": "http://www.hljkjt.gov.cn/html/zwgk/tztg/list.html",
    "ok": false,
    "code": 0,
-   "ms": 516,
+   "ms": 995,
    "count": 0
   },
   {
@@ -3831,7 +3175,7 @@
    "url": "https://damo.alibaba.com/",
    "ok": true,
    "code": 200,
-   "ms": 2077,
+   "ms": 2036,
    "count": 0
   },
   {
@@ -3840,7 +3184,7 @@
    "url": "https://developer.huaweicloud.com/",
    "ok": true,
    "code": 200,
-   "ms": 906,
+   "ms": 1008,
    "count": 0
   },
   {
@@ -3849,7 +3193,7 @@
    "url": "https://leihuo.163.com/",
    "ok": true,
    "code": 200,
-   "ms": 879,
+   "ms": 1089,
    "count": 0
   },
   {
@@ -3858,7 +3202,7 @@
    "url": "https://scholarship.bytedance.com/",
    "ok": true,
    "code": 200,
-   "ms": 875,
+   "ms": 1910,
    "count": 0
   },
   {
@@ -3867,7 +3211,7 @@
    "url": "https://www.antresearch.com/",
    "ok": true,
    "code": 200,
-   "ms": 2503,
+   "ms": 1931,
    "count": 0
   },
   {
@@ -3876,7 +3220,7 @@
    "url": "https://www.aysfellowship.org/",
    "ok": true,
    "code": 200,
-   "ms": 408,
+   "ms": 396,
    "count": 0
   },
   {
@@ -3885,7 +3229,7 @@
    "url": "https://www.caai.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1405,
+   "ms": 1136,
    "count": 4
   },
   {
@@ -3894,7 +3238,7 @@
    "url": "https://www.camscma.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1324,
+   "ms": 1604,
    "count": 0
   },
   {
@@ -3903,7 +3247,7 @@
    "url": "https://www.ccf.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1104,
+   "ms": 991,
    "count": 4
   },
   {
@@ -3912,7 +3256,16 @@
    "url": "https://www.chaspark.com/",
    "ok": true,
    "code": 200,
-   "ms": 727,
+   "ms": 602,
+   "count": 0
+  },
+  {
+   "name": "www.hecpharm.com",
+   "kind": "ent",
+   "url": "https://www.hecpharm.com/",
+   "ok": true,
+   "code": 200,
+   "ms": 2293,
    "count": 0
   },
   {
@@ -3921,7 +3274,7 @@
    "url": "https://www.heprize.org/",
    "ok": true,
    "code": 200,
-   "ms": 1760,
+   "ms": 1329,
    "count": 3
   },
   {
@@ -3930,7 +3283,7 @@
    "url": "https://www.qscgba.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1803,
+   "ms": 2131,
    "count": 0
   },
   {
@@ -3939,7 +3292,7 @@
    "url": "https://www.wizsci.com/",
    "ok": true,
    "code": 200,
-   "ms": 772,
+   "ms": 1335,
    "count": 0
   },
   {
@@ -3948,7 +3301,7 @@
    "url": "https://www.xplorerprize.org/",
    "ok": true,
    "code": 200,
-   "ms": 361,
+   "ms": 1058,
    "count": 0
   },
   {
@@ -3957,7 +3310,7 @@
    "url": "https://xisike.csco.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 1280,
+   "ms": 1048,
    "count": 0
   },
   {
@@ -3975,7 +3328,7 @@
    "url": "https://lmg.cipsc.org.cn/",
    "ok": false,
    "code": 0,
-   "ms": 1572,
+   "ms": 675,
    "count": 0
   },
   {
@@ -3984,16 +3337,7 @@
    "url": "https://www.cepf.org.cn/",
    "ok": false,
    "code": 0,
-   "ms": 1534,
-   "count": 0
-  },
-  {
-   "name": "www.hecpharm.com",
-   "kind": "ent",
-   "url": "https://www.hecpharm.com/",
-   "ok": false,
-   "code": 0,
-   "ms": 15025,
+   "ms": 758,
    "count": 0
   },
   {
@@ -4002,7 +3346,7 @@
    "url": "https://www.mpcs.cn/",
    "ok": false,
    "code": 0,
-   "ms": 1621,
+   "ms": 1207,
    "count": 0
   }
  ],
