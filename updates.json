@@ -1,14 +1,26 @@
 {
- "date": "2026-11-06",
- "crawlTime": "2026-11-06T16:57:24",
+ "date": "2026-11-10",
+ "crawlTime": "2026-11-10T16:58:12",
  "total": 75,
- "alive": 60,
+ "alive": 47,
  "dead": [
+  {
+   "name": "中国（珠海）知识产权保护中心",
+   "url": "https://zhuhai.cnippc.com.cn/",
+   "code": 0,
+   "error": "curl exit 28"
+  },
   {
    "name": "云南科技厅",
    "url": "http://kjt.yn.gov.cn/list-12-2.html",
    "code": 404,
    "error": "HTTP 404"
+  },
+  {
+   "name": "内蒙古自治区科技厅",
+   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/",
+   "code": 403,
+   "error": "HTTP 403"
   },
   {
    "name": "北京科技委员会",
@@ -17,28 +29,82 @@
    "error": "HTTP 404"
   },
   {
-   "name": "吉林科技厅",
-   "url": "http://kjt.jl.gov.cn/",
-   "code": 502,
-   "error": "HTTP 502"
+   "name": "四川科技厅",
+   "url": "http://kjt.sc.gov.cn/kjt/gstz/newschild.shtml",
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "天津科技委员会",
+   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/",
+   "code": 403,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "安徽科技厅",
+   "url": "http://kjt.ah.gov.cn/kjzx/tzgg/index.html",
+   "code": 403,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "山东科技厅",
+   "url": "http://kjt.shandong.gov.cn/col/col13360/index.html",
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "山西科技厅",
+   "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/tzgg_11716/",
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "广西科技厅",
+   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/",
+   "code": 0,
+   "error": "curl exit 28"
   },
   {
    "name": "江苏科技厅",
    "url": "http://std.jiangsu.gov.cn/col/col82540/index.html",
    "code": 0,
-   "error": "curl exit 6"
+   "error": "curl exit 52"
+  },
+  {
+   "name": "江西科技厅",
+   "url": "http://kjt.jiangxi.gov.cn/col/col27029/index.html",
+   "code": 0,
+   "error": "curl exit 28"
   },
   {
    "name": "河北科技厅",
    "url": "https://kjt.hebei.gov.cn/www/xwzx15/tzgg35/index.html",
-   "code": 404,
-   "error": "HTTP 404"
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "河南科技厅",
+   "url": "http://kjt.henan.gov.cn/tzgg/",
+   "code": 403,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "浙江科技厅",
+   "url": "http://kjt.zj.gov.cn/col/col1229225203/index.html",
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "海南科技厅",
+   "url": "http://dost.hainan.gov.cn/xxgk/tzgg/",
+   "code": 0,
+   "error": "curl exit 28"
   },
   {
    "name": "珠海市香洲区政府信息公开目录系统",
    "url": "http://zwgk.zhxz.gov.cn/",
    "code": 0,
-   "error": "curl exit 6"
+   "error": "curl exit 52"
   },
   {
    "name": "珠海科技网",
@@ -55,20 +121,32 @@
   {
    "name": "西藏科技厅",
    "url": "http://sti.xizang.gov.cn/xxgk/tzgg/",
-   "code": 404,
-   "error": "HTTP 404"
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "重庆市科学技术局",
+   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/",
+   "code": 0,
+   "error": "curl exit 28"
   },
   {
    "name": "陕西科技厅",
    "url": "https://kjt.shaanxi.gov.cn/view/iList.jsp?cat_id=221",
-   "code": 404,
-   "error": "HTTP 404"
+   "code": 0,
+   "error": "curl exit 28"
+  },
+  {
+   "name": "青海科技厅",
+   "url": "http://kjt.qinghai.gov.cn/content/lists/cid/7/pid/26/page/",
+   "code": 0,
+   "error": "curl exit 28"
   },
   {
    "name": "黑龙江科技厅",
    "url": "http://www.hljkjt.gov.cn/html/zwgk/tztg/list.html",
    "code": 0,
-   "error": "curl exit 6"
+   "error": "curl exit 52"
   },
   {
    "name": "campus.baidu.com",
@@ -92,7 +170,7 @@
    "name": "www.mpcs.cn",
    "url": "https://www.mpcs.cn/",
    "code": 0,
-   "error": "curl exit 35"
+   "error": "curl exit 60"
   }
  ],
  "newNotices": [
@@ -107,31 +185,11 @@
    "via": ""
   },
   {
-   "site": "山西科技厅",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "政府信息公开指南",
+   "title": "国家科学技术奖励工作办公室",
    "date": "",
-   "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkzn/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "山西科技厅",
-   "kind": "gov",
-   "title": "科技项目统筹推进处",
-   "date": "",
-   "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/kjxmtctjc/",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "科技管理和项目经费",
-   "date": "",
-   "url": "https://dost.hainan.gov.cn/xxgk/kjglhxmjf/",
+   "url": "https://www.nosta.gov.cn/pc/zh/index.shtml",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -139,152 +197,12 @@
   {
    "site": "湖南科技厅",
    "kind": "gov",
-   "title": "关于举办湖南省2026年技术经理人大赛半决赛的通知",
+   "title": "关于公布湖南省2026年第四批入库科技型中小企业名单的通知",
    "date": "",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202611/t20261106_34097030.html",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202611/t20261109_34098179.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
-  },
-  {
-   "site": "辽宁科技厅",
-   "kind": "gov",
-   "title": "政府信息公开指南",
-   "date": "",
-   "url": "http://kjt.ln.gov.cn/kjt/zfxxgk/zfxxgkzn/index.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "辽宁科技厅",
-   "kind": "gov",
-   "title": "科技教育人才支撑塑造发展新动能专项行动",
-   "date": "",
-   "url": "http://kjt.ln.gov.cn/kjt/ztzl/lnqmzxxtpsnxd/index.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于常态化征集重点产业领域科技攻关需求的通知",
-   "date": "2025-09-04",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2025/9/4/14731bc7177d4169b447652a7450393c.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于常态化征集成渝地区“一带一路”科技合作“双千”计划项目需求的通知",
-   "date": "2025-11-25",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2025/11/25/ca0f125b6f974c058b0fc8974ab9e3d8.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "中国（珠海）知识产权保护中心",
-   "kind": "gov",
-   "title": "2026-07-13 珠海市知识产权保护中心关于印发《珠海市知识产权保护中心专利申请预审服务管理办法》的通知",
-   "date": "2026-07-13",
-   "url": "https://zhuhai.cnippc.com.cn/detail/3-1488.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于常态化申报重大科技创新活动的通知",
-   "date": "2026-07-17",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/7/17/6c5eee73f1294d59b775223fd0d1f42d.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "山西科技厅",
-   "kind": "gov",
-   "title": "<p><b>索引号：000014349/2026-03777</b> </p><p><b>发布时间：</b>2026.07.27\n                                            </p>\n      ",
-   "date": "2026-07-27",
-   "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/acs_11737/kjxmtctjc/202607/t20260727_10185335.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "新疆科技厅",
-   "kind": "gov",
-   "title": "关于2026年度自治区科学技术突出贡献奖候选人及科学技术奖候选成果的公示",
-   "date": "2026-09-07",
-   "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/40a88c5f388046bb9821098c09516f44.shtml",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "新疆科技厅",
-   "kind": "gov",
-   "title": "关于公开征求《自治区科技型企业孵化器管理办法（征求意见稿）》意见建议的公告",
-   "date": "2026-09-07",
-   "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202609/4357e8c6ff89468a97aac8558dab280c.shtml",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "珠海市发展和改革局",
-   "kind": "gov",
-   "title": "珠海市发展和改革局关于10千伏及以上新能源可持续发展价格结算机制存量项目公示",
-   "date": "2026-09-07",
-   "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3938880.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "珠海市商务局",
-   "kind": "gov",
-   "title": "珠海市商务局关于开展2026年支持省级外资研发中心落户奖励项目入库工作的通知 2026-09-08",
-   "date": "2026-09-08",
-   "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3939011.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "科学技术部",
-   "kind": "gov",
-   "title": "关于SKAO国际组织职员招聘  （2026年第8批）的通知",
-   "date": "2026-09-08",
-   "url": "http://www.most.gov.cn/tztg/202609/t20260908_197283.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于组织开展第十五届中国创新创业大赛颠覆性技术创新大赛的通知",
-   "date": "2026-09-09",
-   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202609/9a386109c728486bb5baf7dd3410519e.shtml",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "科学技术部火炬高技术产业开发中心",
-   "kind": "gov",
-   "title": "关于启动2026年火炬科技成果直通车活动的通知",
-   "date": "2026-09-11",
-   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202609/89806a22010b43c1beee43f8fadde52a.shtml",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
   },
   {
    "site": "新疆科技厅",
@@ -315,16 +233,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "中国（珠海）知识产权保护中心",
-   "kind": "gov",
-   "title": "喜报！珠海保护中心在第三届广东省知识产权公共服务机构检索分析大赛中 荣获一等奖 2026-09-15",
-   "date": "2026-09-15",
-   "url": "https://zhuhai.cnippc.com.cn/detail/4-1543.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "珠海市商务局",
@@ -389,32 +297,12 @@
   {
    "site": "www.caai.cn",
    "kind": "ent",
-   "title": "2026年智能创意与数字艺术学术年会会议通知（第一轮）",
+   "title": "中国人工智能学会组织工作委员会2026年度委员纳新通知",
    "date": "2026-09-18",
-   "url": "https://www.caai.cn/site/content/11500.html",
+   "url": "https://www.caai.cn/site/content/11565.html",
    "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "宁夏科技厅",
-   "kind": "gov",
-   "title": "》 自治区科技厅关于征求《自治区科技型企业孵化器奖补实施细则（征求意见稿）》意见建议的函",
-   "date": "2026-09-19",
-   "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260920_5349486.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "宁夏科技厅",
-   "kind": "gov",
-   "title": "》 自治区科技厅关于组织申报2027年自治区科技战略研究专项“软科学”项目的通知",
-   "date": "2026-09-20",
-   "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202609/t20260920_5349853.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
+   "isNew": true,
+   "via": "url"
   },
   {
    "site": "宁夏科技厅",
@@ -607,16 +495,6 @@
    "via": ""
   },
   {
-   "site": "NSFC",
-   "kind": "gov",
-   "title": "关于发布2026年度国家自然科学基金专项项目——“表观基因组调控机制与干预策略”申...",
-   "date": "2026-09-30",
-   "url": "https://www.nsfc.gov.cn/p1/3381/2824/143116.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
    "site": "上海科技委员会",
    "kind": "gov",
    "title": "上海市科学技术委员会关于征集2026年度上海市概念验证项目的通知",
@@ -632,16 +510,6 @@
    "title": "湖南省科学技术厅 湖南省财政厅关于申报2027年湖南省科普项目（第一批）的通知",
    "date": "2026-09-30",
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260930_34075451.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "湖南科技厅",
-   "kind": "gov",
-   "title": "湖南省科学技术厅关于做好2026年度湖南省科学技术奖提名工作的通知",
-   "date": "2026-09-30",
-   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202609/t20260930_34075237.html",
    "hkmo": false,
    "isNew": false,
    "via": ""
@@ -667,14 +535,14 @@
    "via": ""
   },
   {
-   "site": "青海科技厅",
+   "site": "辽宁科技厅",
    "kind": "gov",
-   "title": "青海省科学技术厅关于举办2026年青海省技术合同认定登记员培训班的通知 2026-09-30 14:35:59",
+   "title": "关于开展2026年第二批辽宁省雏鹰、瞪羚、独角兽企业评价备案工作的通知",
    "date": "2026-09-30",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11760",
+   "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026100815402050433/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -682,16 +550,6 @@
    "title": "关于发布2026年度国家自然科学基金专项项目——“脑机接口大模型解码算法研发及其在...",
    "date": "2026-10-08",
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/143611.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "上海科技委员会",
-   "kind": "gov",
-   "title": "关于发布2026年度关键技术研发计划“太赫兹”项目申报指南的通知",
-   "date": "2026-10-08",
-   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20261008/2e92d598dd6946d8a5de431c5ea99524.html",
    "hkmo": false,
    "isNew": false,
    "via": ""
@@ -733,28 +591,8 @@
    "date": "2026-10-08",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026100816170250533/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局关于参加第九届中国国际进口博览会的通知",
-   "date": "2026-10-08",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261008_16199152.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "关于公示2026年度技术创新与应用发展先进材料重点专项拟立项项目清单的公告",
-   "date": "2026-10-08",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261008_16197624.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -797,31 +635,11 @@
    "via": ""
   },
   {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局关于2026年第九批入库科技型企业名单的公告",
-   "date": "2026-10-09",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261009_16206691.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "上海科技委员会",
    "kind": "gov",
    "title": "上海市科学技术委员会关于发布2026年度“6G科技创新与未来产业培育战略前沿专项”公开征集项目申报指南的通知",
    "date": "2026-10-10",
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20261010/f8db554de59b4f4789a92cdc44f72f9f.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "湖北科技厅",
-   "kind": "gov",
-   "title": "关于开展2026年度湖北省自然科学研究系列高、中、初级职称评审工作的通知",
-   "date": "2026-10-10",
-   "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202610/t20261010_6030640.shtml",
    "hkmo": false,
    "isNew": false,
    "via": ""
@@ -847,36 +665,6 @@
    "via": ""
   },
   {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "关于征集2026年度重庆市自然科学基金创新发展联合基金（智慧医保）项目指南建议的通知",
-   "date": "2026-10-10",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261010_16213646.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局 重庆市总工会 关于印发《2026年重庆市科技检验检测技能大赛（金相方向）实施方案》的通知",
-   "date": "2026-10-10",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261010_16211405.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于开展2026年度第五批及2027年度第一批社会领域中央引导地方科技发展资金和省级科技计划项目评审的... 2026-10-10 17:20:42",
-   "date": "2026-10-10",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11764",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "NSFC",
    "kind": "gov",
    "title": "关于发布医学科学部2026年度专项项目指南（第三批）的通告",
@@ -885,16 +673,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "中国（珠海）知识产权保护中心",
-   "kind": "gov",
-   "title": "珠海市知识产权保护中心关于征集知识产权保护技术支撑服务需求的通知 2026-10-12",
-   "date": "2026-10-12",
-   "url": "https://zhuhai.cnippc.com.cn/detail/3-1555.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "湖南科技厅",
@@ -933,18 +711,8 @@
    "date": "2026-10-12",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026101309030614944/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局关于征集大型科研仪器开放共享相关领域专家的通知",
-   "date": "2026-10-12",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261012_16218328.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -1023,8 +791,8 @@
    "date": "2026-10-14",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026101415021515930/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1033,8 +801,8 @@
    "date": "2026-10-14",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026101415001041340/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -1055,26 +823,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "青海省科学技术厅关于开展2026年青海省科技成果转化平台申报工作的通知 2026-10-15 17:40:14",
-   "date": "2026-10-15",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11769",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "关于组织申报深地国家科技重大专项2026年度第二批公开项目的通知",
-   "date": "2026-10-16",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261016_7633980.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "湖南科技厅",
@@ -1107,31 +855,11 @@
    "via": ""
   },
   {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "2026年支持企业加强研发能力建设项目评审专家名单（第一批）",
-   "date": "2026-10-19",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261019_7635340.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "宁夏科技厅",
    "kind": "gov",
    "title": "》 2026年自治区科产融合重大项目（高新技术领域）拟立项项目公示",
    "date": "2026-10-19",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202610/t20261020_5376166.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "广东省工业和信息化厅",
-   "kind": "gov",
-   "title": "广东省工业和信息化厅政务信息化系统升级改造及运营（2026年）项目公开招标公告",
-   "date": "2026-10-19",
-   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4970520.html",
    "hkmo": false,
    "isNew": false,
    "via": ""
@@ -1177,66 +905,6 @@
    "via": ""
   },
   {
-   "site": "福建科技厅",
-   "kind": "gov",
-   "title": "福建省科学技术厅关于组织申报2026年度省科技计划引导性定向项目“面向IC封装无损检测的AI驱动稀土闪烁体及柔性X射线成像关键技术研发与应用”的通知",
-   "date": "2026-10-19",
-   "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202610/t20261019_7237707.htm",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于开展高新技术领域2026年度第六批省级科技计划项目评审的通知 2026-10-19 11:25:05",
-   "date": "2026-10-19",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11771",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于公示生物制造领域科技重大专项总师人选名单的通知",
-   "date": "2026-10-20",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261020_2966970.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于转发《关于举办“振兴杯”首届四川省创新创业大赛“绿色制造·创享价值”行业领域赛的通知》的通知",
-   "date": "2026-10-20",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/10/20/fe8aede8c42b4f34ab2ccf4bb54dcd68.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "2026年度天津市国际科技合作项目评审专家名单",
-   "date": "2026-10-20",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261020_7636251.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省科学技术厅",
-   "kind": "gov",
-   "title": "广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“脑机接口”专项项目的通知",
-   "date": "2026-10-20",
-   "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968672.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
    "site": "湖北科技厅",
    "kind": "gov",
    "title": "关于2026年省级“尖刀”技术攻关工程 项目（第三批）申报的声明",
@@ -1257,44 +925,14 @@
    "via": ""
   },
   {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "省科技厅关于公开征求《贵州省重大科研基础设施和大型科研仪器开放共享管理办法（征求意见稿）》意见建议的通知",
-   "date": "2026-10-20",
-   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202610/t20261020_91008667.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
    "site": "辽宁科技厅",
    "kind": "gov",
    "title": "关于发布辽苏两省成果需求和应用场景的通知",
    "date": "2026-10-20",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026102015030450422/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于组织开展2026年度青海省科技特派员考核工作的通知 2026-10-20 18:00:55",
-   "date": "2026-10-20",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11773",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于开展2027年省级科技特派员和科技服务需求征集工作的通知 2026-10-20 17:55:41",
-   "date": "2026-10-20",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11772",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "上海科技委员会",
@@ -1307,46 +945,6 @@
    "via": ""
   },
   {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "科研基础设施和大型科研仪器开放共享服务体系建设（二次）竞争性磋商公告",
-   "date": "2026-10-21",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261021_2967664.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于组织申报“脑科学与类脑研究”国家科技重大专项2027年度第一批项目申报指南的通知",
-   "date": "2026-10-21",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261021_2967436.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于组织申报国家网络空间安全国家科技重大专项第四批项目申报指南的通知",
-   "date": "2026-10-21",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261021_2967432.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "2026年支持企业加强研发能力建设项目评审专家名单（第二批）",
-   "date": "2026-10-21",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261021_7637360.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "宁夏科技厅",
    "kind": "gov",
    "title": "》 自治区科技厅关于征集2027年中国工程科技发展战略宁夏研究院战略咨询项目指南建议的函",
@@ -1355,16 +953,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于2026年度省自然科学基金基础研究重大项目答辩的预通知",
-   "date": "2026-10-21",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123532241.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "湖北科技厅",
@@ -1393,8 +981,8 @@
    "date": "2026-10-21",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026102114234320474/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -1403,28 +991,8 @@
    "date": "2026-10-21",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026102114225210731/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "青海省科学技术厅关于修订部分政策文件的通知 2026-10-21 16:15:49",
-   "date": "2026-10-21",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11774",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于开展内蒙古自治区享受支持科技创新进口税收政策的科研院所、转制科研院所 和新型研发机构名单核定工作的通知",
-   "date": "2026-10-22",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261022_2968167.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "宁夏科技厅",
@@ -1432,26 +1000,6 @@
    "title": "》 自治区科技厅关于组织申报2027年度自治区科技基础条件建设项目的通知",
    "date": "2026-10-22",
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202610/t20261022_5379651.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于举办“高校院所行”走进中国医学科学院活动的通知",
-   "date": "2026-10-22",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123534101.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广东省工业和信息化厅",
-   "kind": "gov",
-   "title": "广东省工业和信息化厅、广东省发展和改革委员会、广东省能源局关于组织开展2026年度国家绿色算力设施推荐工作的通知",
-   "date": "2026-10-22",
-   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4971591.html",
    "hkmo": false,
    "isNew": false,
    "via": ""
@@ -1487,46 +1035,6 @@
    "via": ""
   },
   {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "2026年贵州省科技重大专项（第二批）拟立项项目公示",
-   "date": "2026-10-22",
-   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202610/t20261022_91020176.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "2026年度贵州省科技支撑计划重点项目（智能制造领域）拟立项项目公示",
-   "date": "2026-10-22",
-   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202610/t20261022_91019396.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "贵州科技厅",
-   "kind": "gov",
-   "title": "2026年贵州省基层科普教育特色学校建设项目拟立项单位的公示",
-   "date": "2026-10-22",
-   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202610/t20261022_91019270.html",
-   "hkmo": false,
-   "isNew": false,
-   "via": ""
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于组织开展第十五届中国创新创业大赛青海赛区暨第十二届青海省大学生创新创业大赛团队组比赛的通知... 2026-10-22 11:15:44",
-   "date": "2026-10-22",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11775",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "上海科技委员会",
    "kind": "gov",
    "title": "关于组织申报国家网络空间安全国家科技重大专项第四批项目的通知",
@@ -1535,36 +1043,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于公示2026年科技咨询委委员推荐项目拟立项名单的通知",
-   "date": "2026-10-23",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261023_2968809.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于公示2026年度重点研发和成果转化计划第二批拟立项目的通知",
-   "date": "2026-10-23",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261023_2968807.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于组织申报智能电网国家科技重大专项专题攻关公开项目的通知",
-   "date": "2026-10-23",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/10/23/a8ecfbad16b14aeb819adda3e9f868fb.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "广东省科学技术厅",
@@ -1587,44 +1065,14 @@
    "via": ""
   },
   {
-   "site": "重庆市科学技术局",
+   "site": "湖南科技厅",
    "kind": "gov",
-   "title": "关于开展重庆市产业创新综合体建设项目申报的通知",
+   "title": "关于开展2026年创新联合体建设试点申报工作的通知",
    "date": "2026-10-23",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261023_16280728.html",
+   "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/202610/t20261023_34087092.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于开展2027年度农村领域第一批省级科技计划项目评审的通知 2026-10-23 09:35:47",
-   "date": "2026-10-23",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11777",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于公示2026年度科技服务业企业效能提升项目拟立项项目名单的通知",
-   "date": "2026-10-24",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202610/t20261024_2968878.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于安徽省2026年第3批入库科技型中小企业的公告",
-   "date": "2026-10-24",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123540281.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省工业和信息化厅",
@@ -1635,56 +1083,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "中国（珠海）知识产权保护中心",
-   "kind": "gov",
-   "title": "珠海市知识产权公共服务工作指南 2026-10-26",
-   "date": "2026-10-26",
-   "url": "https://zhuhai.cnippc.com.cn/detail/3-1562.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "2026年支持企业加强研发能力建设项目评审专家名单（第三批）",
-   "date": "2026-10-26",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261026_7641495.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于举办第十五届中国创新创业大赛安徽赛区颁奖典礼暨金融服务对接会的通知",
-   "date": "2026-10-26",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123540001.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "安徽省科技厅关于公开征求《安徽省人工智能场景创新项目管理办法（试行）（征求意见稿）》《安徽省通用人工智能产业创新园区管理办法（试行）（征求意见稿）》意见的公告",
-   "date": "2026-10-26",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123539991.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于开展2026年安徽省科学技术厅科技型企业孵化器认定工作的通知",
-   "date": "2026-10-26",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123539921.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "广东省工业和信息化厅",
@@ -1707,16 +1105,6 @@
    "via": ""
   },
   {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "广西科学技术奖励委员会办公室关于开展广西科学技术奖励专家库专家征集及在库专家信息更新工作的通知（桂科奖办发〔2026〕7号）",
-   "date": "2026-10-26",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28264669.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "新疆科技厅",
    "kind": "gov",
    "title": "关于填报2026年度自治区科技计划项目执行情况报告的通知",
@@ -1737,26 +1125,6 @@
    "via": ""
   },
   {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "2026年第四批省重大创新项目验收结果公示",
-   "date": "2026-10-26",
-   "url": "http://kjt.henan.gov.cn/2026/10-26/3441246.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "拟申请注销登记公告",
-   "date": "2026-10-26",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202610/t20261026_4167879.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "珠海市发展和改革局",
    "kind": "gov",
    "title": "关于发布珠海市优质诚信企业通过复核名单的通知",
@@ -1765,26 +1133,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于签订报送2026年第五批省级财政科技计划专项和第二批中央财政引导地方科技发展专项项目任务书和申报书的通知",
-   "date": "2026-10-27",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/10/27/a6a0b16bed084a7a98c8840dcc647cc1.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "天津医学健康研究院2026年公开招聘岗位重新报名通知",
-   "date": "2026-10-27",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261027_7642918.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "广东省工业和信息化厅",
@@ -1847,36 +1195,6 @@
    "via": ""
   },
   {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "关于申报2026年度重庆市自然科学基金创新发展联合基金（市教委、气象）项目的通知",
-   "date": "2026-10-27",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261027_16301307.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "关于公示重庆市2026年第六批拟更名高新技术企业名单的通知",
-   "date": "2026-10-27",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261027_16299184.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "青海省科学技术厅关于做好2026年自然科学研究系列职称评审工作的通知 2026-10-27 10:30:00",
-   "date": "2026-10-27",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11779",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "NSFC",
    "kind": "gov",
    "title": "国家自然科学基金委员会与国际应用系统分析学会2027年暑期青年科学家项目开放申请通知",
@@ -1897,16 +1215,6 @@
    "via": ""
   },
   {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅 四川省经济和信息化厅关于开展2026年创新型产业集群申报工作的通知",
-   "date": "2026-10-28",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/10/28/affc29568d18445f948b3aa9ca402670.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "宁夏科技厅",
    "kind": "gov",
    "title": "》 自治区科技厅关于征集2026年宁夏创新挑战赛解决方案的通知",
@@ -1925,36 +1233,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于公开征求《广西壮族自治区科技智库管理办法（征求意见稿）》意见建议的通知",
-   "date": "2026-10-28",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28273558.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "河南省财政厅 河南省科学技术厅关于下达2026年第六批省创新生态支撑专项经费预算的通知",
-   "date": "2026-10-28",
-   "url": "http://kjt.henan.gov.cn/2026/10-28/3442136.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "河南省财政厅 河南省科学技术厅关于下达2026年第五批省创新研发专项经费预算的通知",
-   "date": "2026-10-28",
-   "url": "http://kjt.henan.gov.cn/2026/10-28/3442131.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "珠海市商务局",
@@ -2023,8 +1301,8 @@
    "date": "2026-10-28",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026102820145092371/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -2033,8 +1311,8 @@
    "date": "2026-10-28",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026102820103146392/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.ccf.org.cn",
@@ -2047,31 +1325,11 @@
    "via": ""
   },
   {
-   "site": "中国（珠海）知识产权保护中心",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "2026-10-29 关于公布专利快速预审服务第十批（2026年第三季度）备案主体名单的通知",
+   "title": "吉林省科学技术厅关于2026年第四批入库科技型中小企业的公告 2026-10-29",
    "date": "2026-10-29",
-   "url": "https://zhuhai.cnippc.com.cn/detail/3-1557.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "关于发布竹笋低成本无硫锁鲜成套技术攻关“揭榜挂帅”项目“一次榜单”的通知",
-   "date": "2026-10-29",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/10/29/ec81a9e843b94241ba40577b54d482e8.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "关于开展天开高教科创园2026年度第一批政策申报的通知",
-   "date": "2026-10-29",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261029_7645260.html",
+   "url": "http://kjt.jl.gov.cn/xwzx/tzgg/202610/t20261029_3683092.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -2137,66 +1395,6 @@
    "via": ""
   },
   {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于申报组建2026年第二批广西人工智能开放创新平台的通知（桂科发〔2026〕322号）",
-   "date": "2026-10-29",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28275229.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于公布2026年首批广西人工智能开放创新平台名单的通知（桂科发〔2026〕321号）",
-   "date": "2026-10-29",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28275107.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于申报“十五五”期间享受支持科技创新进口税收优惠政策资格的通知",
-   "date": "2026-10-29",
-   "url": "http://kjt.henan.gov.cn/2026/10-29/3442375.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅关于2026年产业科技创新项目（企业“科技副总”方向）拟立项项目的公示",
-   "date": "2026-10-29",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202610/t20261029_4170269.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅关于海南省重点研发专项（高新技术方向）“水上水下一体化无人智能观测平台”等29个项目验收结果的通知",
-   "date": "2026-10-29",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202610/t20261029_4169751.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅关于下达2025年度第二批促进经济高质量发展资金（科技奖补资金）的通知",
-   "date": "2026-10-29",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202610/t20261029_4169730.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "贵州科技厅",
    "kind": "gov",
    "title": "贵州省2026年第四批入库科技型中小企业名单公告",
@@ -2205,56 +1403,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局关于公示2026年第十批拟入库科技型企业名单的通知",
-   "date": "2026-10-29",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261029_16317084.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "青海省科学技术厅（本级）2026年10月政府采购意向公告 2026-10-29 09:00:16",
-   "date": "2026-10-29",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11790",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "四川省科学技术厅关于组织申报“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目和人员交流项目的通知",
-   "date": "2026-10-30",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/10/30/1ade39c5feff4b8ea096fc1c6e09fe22.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "天津市2026年第六批入库科技型中小企业名单公告",
-   "date": "2026-10-30",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202610/t20261030_7646440.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于公示安徽省2026年拟认定技术先进型服务企业名单的通知",
-   "date": "2026-10-30",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123544841.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "广东省工业和信息化厅",
@@ -2317,16 +1465,6 @@
    "via": ""
   },
   {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "青海省科学技术厅关于开展2026年度青海省自然科学基金企业创新发展联合基金—盐湖自然科学基金企业创... 2026-10-30 18:05:33",
-   "date": "2026-10-30",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11809",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "www.ccf.org.cn",
    "kind": "ent",
    "title": "CNCC2026颁奖典礼隆重颁发四大奖项 ——CCF王选奖、CCF海外科技人物奖、CCF青年科技奖、CCF科技成果奖颁发",
@@ -2337,41 +1475,21 @@
    "via": ""
   },
   {
-   "site": "四川科技厅",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "国家重点研发计划颠覆性技术创新重点专项2026年度项目申报指引",
-   "date": "2026-10-31",
-   "url": "https://mp.weixin.qq.com/s/QgN1BIEpelkrQYKjUWmOhg",
+   "title": "关于2026年度吉林省科学技术奖拟奖项目（人选）的公示 2026-11-02",
+   "date": "2026-11-02",
+   "url": "http://kjt.jl.gov.cn/xwzx/tzgg/202611/t20261102_3683813.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
   },
   {
-   "site": "内蒙古自治区科技厅",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "内蒙古2027年科技强区建设蓝皮书项目成交结果公告",
+   "title": "关于做好国家科技专家库专家征集工作的通知 2026-11-02",
    "date": "2026-11-02",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261102_2972462.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "内蒙古自治区科技创新能力评价项目成交结果公告",
-   "date": "2026-11-02",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261102_2972458.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于组织申报智能电网国家科技重大专项专题攻关公开项目申报指南的通知",
-   "date": "2026-11-02",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261102_2972151.html",
+   "url": "http://kjt.jl.gov.cn/xwzx/tzgg/202611/t20261102_3683708.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -2385,36 +1503,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于征集2028年度国家自然科学基金区域创新发展联合基金（广西）项目申报指南研究方向建议的通知（桂科发〔2026〕328号）",
-   "date": "2026-11-02",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28291250.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅转发《科技部办公厅关于开展国家科技专家库专家征集工作的通知》的通知",
-   "date": "2026-11-02",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202611/t20261102_4171794.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "拟申请注销登记公告",
-   "date": "2026-11-02",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202611/t20261102_4171686.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "珠海市商务局",
@@ -2463,28 +1551,8 @@
    "date": "2026-11-02",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026110215024626893/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "关于公开征求《重庆市科研项目科技伦理监管工作规范（征求意见稿）》意见的公告",
-   "date": "2026-11-02",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202611/t20261102_16338234.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于发布青海省大型科研仪器共享查询系列目录（第二批）的通知 2026-11-02 16:15:36",
-   "date": "2026-11-02",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11811",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "NSFC",
@@ -2517,26 +1585,6 @@
    "via": ""
   },
   {
-   "site": "四川科技厅",
-   "kind": "gov",
-   "title": "关于转发《科技部办公厅关于开展国家科技专家库专家征集工作的通知》的通知",
-   "date": "2026-11-03",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/11/3/225bc67afdb54b1aa5d343fff818ddd6.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "国家重点研发计划颠覆性技术创新重点专项2026年度项目申报指引",
-   "date": "2026-11-03",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/ZXGZ7816/CXCY4216/GZDT8665/202611/t20261104_7650143.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "宁夏科技厅",
    "kind": "gov",
    "title": "》 关于2026年自治区全职引进高层次人才科研启动项目的公示",
@@ -2557,26 +1605,6 @@
    "via": ""
   },
   {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "2026年度安徽省自然科学基金受理项目公示",
-   "date": "2026-11-03",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123547771.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于做好2026年度长三角科技创新共同体联合攻关（基础研究）项目申报的通知",
-   "date": "2026-11-03",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123547631.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "广东省工业和信息化厅",
    "kind": "gov",
    "title": "广东省工业和信息化厅政务信息化运维类（2026年）项目竞争性磋商的公告",
@@ -2585,36 +1613,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "中共广西壮族自治区委员会科技委员会办公室 广西壮族自治区发展和改革委员会关于印发《广西壮族自治区重大科技基础设施管理办法（试行）》的通知（桂科委办发〔2026〕16号）",
-   "date": "2026-11-03",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28295884.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于公开征求《广西临床医学研究中心评估规则（征求意见稿）》意见建议的通知",
-   "date": "2026-11-03",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28296251.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅 自治区财政厅关于开展2025年度激励企业加大研发经费投入财政奖补专项申报的通知（桂科发〔2026〕329号）",
-   "date": "2026-11-03",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28294738.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "新疆科技厅",
@@ -2635,36 +1633,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于组织开展河南省技术经理人大赛的通知",
-   "date": "2026-11-03",
-   "url": "http://kjt.henan.gov.cn/2026/11-04/3444243.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于2027年度省重点研发专项答辩评审相关工作的预通知",
-   "date": "2026-11-03",
-   "url": "http://kjt.henan.gov.cn/2026/11-03/3444072.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于公布第十五届中国创新创业大赛河南赛区暨第十八届河南省创新创业大赛获奖企业 （项目）的通知",
-   "date": "2026-11-03",
-   "url": "http://kjt.henan.gov.cn/2026/11-03/3443963.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "湖北科技厅",
@@ -2727,26 +1695,6 @@
    "via": ""
   },
   {
-   "site": "重庆市科学技术局",
-   "kind": "gov",
-   "title": "重庆市科学技术局关于公示终止科研项目的通知",
-   "date": "2026-11-03",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202611/t20261103_16343195.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于印发2026年度省级重大科技专项“青藏高原多年冻土区重大公路工程韧性提升技术研究与示范”项目申... 2026-11-03 15:45:02",
-   "date": "2026-11-03",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11818",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
    "site": "上海科技委员会",
    "kind": "gov",
    "title": "关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流计划项目的通知",
@@ -2757,101 +1705,41 @@
    "via": ""
   },
   {
-   "site": "中国（珠海）知识产权保护中心",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "珠海市知识产权保护中心关于举办珠海市数据知识产权保护能力提升活动的通知 2026-11-04",
+   "title": "关于开展2026年度全省“科研诚信宣传月”活动的通知 2026-11-04",
    "date": "2026-11-04",
-   "url": "https://zhuhai.cnippc.com.cn/detail/3-1570.html",
+   "url": "http://kjt.jl.gov.cn/xwzx/tzgg/202611/t20261104_3684155.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
   },
   {
-   "site": "内蒙古自治区科技厅",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "内蒙古自治区科学技术厅科研基础设施和大型科研仪器开放共享服务体系建设采购（二次）成交结果公告",
+   "title": "科技发展计划（项目）管理",
    "date": "2026-11-04",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261104_2973440.html",
+   "url": "http://kjt.jl.gov.cn/zwfw/kjfzjhgl/",
    "hkmo": false,
    "isNew": true,
    "via": "url"
   },
   {
-   "site": "内蒙古自治区科技厅",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目的通知",
+   "title": "吉林省科技计划 项目管理信息系统",
    "date": "2026-11-04",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261104_2973388.html",
+   "url": "http://www.jlkjxm.com/",
    "hkmo": false,
    "isNew": true,
    "via": "url"
   },
   {
-   "site": "内蒙古自治区科技厅",
+   "site": "吉林科技厅",
    "kind": "gov",
-   "title": "关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流项目的通知",
+   "title": "吉林省科学技术奖励工作平台",
    "date": "2026-11-04",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261104_2973381.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "市科技局关于组织申报智能电网国家科技重大专项专题攻关公开项目的通知",
-   "date": "2026-11-04",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202611/t20261104_7650155.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "市科技局关于转发天津港保税区2026年“揭榜挂帅”项目技术需求榜单的通知",
-   "date": "2026-11-04",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202611/t20261104_7650053.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "市科技局关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流项目的通知",
-   "date": "2026-11-04",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202611/t20261104_7649895.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "市科技局关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目的通知",
-   "date": "2026-11-04",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202611/t20261104_7649892.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于准予变更华润博雅生物制药（安徽）有限公司等2家单位实验动物行政许可事项的通知",
-   "date": "2026-11-04",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123548961.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "国家重点研发计划颠覆性技术创新重点专项2026年度项目申报指引",
-   "date": "2026-11-04",
-   "url": "https://mp.weixin.qq.com/s/o5dH2Ws3DbK_Dq6T_6e94Q",
+   "url": "http://jl.jlkjxm.com/",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -2863,8 +1751,8 @@
    "date": "2026-11-04",
    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4976011.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -2885,46 +1773,6 @@
    "hkmo": false,
    "isNew": false,
    "via": ""
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于转发科技部国际合作司国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流项目申报指南的通知（桂科发〔2026〕333号）",
-   "date": "2026-11-04",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28300884.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于转发科技部国际合作司国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目申报指南的通知（桂科发〔2026〕332号）",
-   "date": "2026-11-04",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28300829.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于公开征求《广西科技成果转化奖励工作指引（征求意见稿）》意见的通知",
-   "date": "2026-11-04",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28301016.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于公开征求《广西创新积分制评价指标体系》意见建议的通知",
-   "date": "2026-11-04",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28301011.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
   },
   {
    "site": "湖北科技厅",
@@ -2983,8 +1831,8 @@
    "date": "2026-11-04",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026110416262979238/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.heprize.org",
@@ -2993,8 +1841,8 @@
    "date": "2026-11-04",
    "url": "https://www.heprize.org/News/Details?alias=dF9GxzjfpHiiXPJh1kDrMU",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "www.heprize.org",
@@ -3002,16 +1850,6 @@
    "title": "何享健青年科学家项目第二期正式启动 2025.11.03 何享健青年科学家项目第二期正式启动",
    "date": "2026-11-04",
    "url": "https://www.heprize.org/News/Details?alias=heprize-news-1221",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "上海科技委员会",
-   "kind": "gov",
-   "title": "项目/专项资金公开",
-   "date": "2026-11-05",
-   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/zxzj/index.html#rightSidebar",
    "hkmo": false,
    "isNew": false,
    "via": ""
@@ -3027,121 +1865,11 @@
    "via": ""
   },
   {
-   "site": "四川科技厅",
+   "site": "广东省工业和信息化厅",
    "kind": "gov",
-   "title": "四川省科学技术厅关于组织申报“尖刀”技术攻关工程重点专项2026年度项目的通知",
+   "title": "广东省工业和信息化厅关于“粤智赋万企行”宣传项目支撑服务机构遴选结果的公示",
    "date": "2026-11-05",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/11/5/bcdac4892b6e43e59a98fb43af244530.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "2026年天津市“先投后股”项目评审专家名单（第一批）",
-   "date": "2026-11-05",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202611/t20261105_7650436.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于转发《国家能源局关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》的通知",
-   "date": "2026-11-05",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123550641.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流项目的通知",
-   "date": "2026-11-05",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123549891.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于组织申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目的通知",
-   "date": "2026-11-05",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123549881.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于征集2026年度广西“首字号”科技创新重大成果的通知（桂科发〔2026〕335号）",
-   "date": "2026-11-05",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28305091.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅转发国家能源局关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知（桂科发〔2026〕334号）",
-   "date": "2026-11-05",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28303503.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于推荐申报国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目的通知",
-   "date": "2026-11-05",
-   "url": "http://kjt.henan.gov.cn/2026/11-05/3444895.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于组织申报国家重点研发计划 “政府间国际科技创新合作”重点专项2027年度第一批人员交流项目的通知",
-   "date": "2026-11-05",
-   "url": "http://kjt.henan.gov.cn/2026/11-05/3444894.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "河南科技厅",
-   "kind": "gov",
-   "title": "关于认定河南省2026年度技术先进型服务企业的通知",
-   "date": "2026-11-05",
-   "url": "http://kjt.henan.gov.cn/2026/11-05/3444680.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅转发国家能源局关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知",
-   "date": "2026-11-05",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202611/t20261105_4173682.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "海南科技厅",
-   "kind": "gov",
-   "title": "海南省科学技术厅关于省院士创新平台科研项目“基于环境梯度的红树林湿地蓝碳精细评估研究”等项目绩效验收评价结果的通知",
-   "date": "2026-11-05",
-   "url": "http://dost.hainan.gov.cn/xxgk/xxgkzl/xxgkml/202611/t20261105_4173674.html",
+   "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4976229.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -3153,8 +1881,8 @@
    "date": "2026-11-05",
    "url": "https://zhrsj.zhuhai.gov.cn/zc/zcjd/content/post_3957021.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "福建科技厅",
@@ -3173,8 +1901,8 @@
    "date": "2026-11-05",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261105_91078654.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "贵州科技厅",
@@ -3197,61 +1925,21 @@
    "via": ""
   },
   {
-   "site": "重庆市科学技术局",
+   "site": "上海科技委员会",
    "kind": "gov",
-   "title": "关于2026年第十批入库科技型企业名单的公告",
-   "date": "2026-11-05",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202611/t20261105_16356623.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "青海科技厅",
-   "kind": "gov",
-   "title": "关于组织开展青海省创新联合体申报工作的通知 2026-11-05 17:30:05",
-   "date": "2026-11-05",
-   "url": "https://kjt.qinghai.gov.cn/content/show/id/11820",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "title": "关于征集2027年度拟组建创新联合体首席专家人选的通知",
+   "title": "项目/专项资金公开",
    "date": "2026-11-06",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/202611/t20261106_2974811.html",
+   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/zxzj/index.html#rightSidebar",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
-   "site": "四川科技厅",
+   "site": "上海科技委员会",
    "kind": "gov",
-   "title": "四川省科学技术厅关于组织申报“三峡水运新通道数智增效”重点专项2026年度公开竞争项目的通知",
+   "title": "关于组织申报国家重点研发计划“尖刀”技术攻关工程重点专项2026年度项目的通知",
    "date": "2026-11-06",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/2026/11/6/caf7c32caad34f01897a998c13943e35.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "天津科技委员会",
-   "kind": "gov",
-   "title": "2026年天津市“先投后股”项目评审专家名单（第二批）",
-   "date": "2026-11-06",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/202611/t20261106_7651219.html",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "安徽科技厅",
-   "kind": "gov",
-   "title": "关于准予安徽农业大学等3家单位实验动物行政许可事项的通知",
-   "date": "2026-11-06",
-   "url": "https://kjt.ah.gov.cn/kjzx/tzgg/123550841.html",
+   "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20261106/0d3e117df7074a82aca6419db38e1626.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -3263,8 +1951,8 @@
    "date": "2026-11-06",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4975866.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "广东省科学技术厅",
@@ -3273,18 +1961,8 @@
    "date": "2026-11-06",
    "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4975863.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
-  },
-  {
-   "site": "广西科技厅",
-   "kind": "gov",
-   "title": "自治区科技厅关于公布第十五届中国创新创业大赛广西赛区暨2026年广西创新创业大赛总决赛获奖企业名单的通知",
-   "date": "2026-11-06",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t28313336.shtml",
-   "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -3293,8 +1971,8 @@
    "date": "2026-11-06",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202611/t20261106_6071992.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "湖北科技厅",
@@ -3302,6 +1980,26 @@
    "title": "省科技厅关于开展2026年湖北省乡村振兴科技创新基地绩效评价工作的通知",
    "date": "2026-11-06",
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202611/t20261106_6071467.shtml",
+   "hkmo": false,
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "福建科技厅",
+   "kind": "gov",
+   "title": "福建省科学技术厅等四部门关于印发《关于推进科技服务业扩能提质的若干措施》的通知",
+   "date": "2026-11-06",
+   "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/202611/t20261106_7245966.htm",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "贵州科技厅",
+   "kind": "gov",
+   "title": "省科技厅关于2027年度基础研究计划联合基金项目接受一次性补正的通知",
+   "date": "2026-11-06",
+   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261106_91083111.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -3313,8 +2011,8 @@
    "date": "2026-11-06",
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261106_91082101.html",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -3323,8 +2021,8 @@
    "date": "2026-11-06",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026110616270197429/index.shtml",
    "hkmo": false,
-   "isNew": true,
-   "via": "url"
+   "isNew": false,
+   "via": ""
   },
   {
    "site": "辽宁科技厅",
@@ -3333,15 +2031,175 @@
    "date": "2026-11-06",
    "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026110616012483309/index.shtml",
    "hkmo": false,
+   "isNew": false,
+   "via": ""
+  },
+  {
+   "site": "辽宁科技厅",
+   "kind": "gov",
+   "title": "关于征集企业需求和选派2027年度企业科技特派员的通知",
+   "date": "2026-11-06",
+   "url": "http://kjt.ln.gov.cn/kjt/tztg/gztz/2026111014151056911/index.shtml",
+   "hkmo": false,
    "isNew": true,
    "via": "url"
   },
   {
-   "site": "重庆市科学技术局",
+   "site": "宁夏科技厅",
    "kind": "gov",
-   "title": "关于2026年自然科学研究系列、技术经纪专业、科学传播专业职称评审费网上缴费的通知",
-   "date": "2026-11-06",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/202611/t20261106_16365697.html",
+   "title": "》 自治区科技厅关于组织申报2027年自治区技术转移机构的通知",
+   "date": "2026-11-09",
+   "url": "https://kjt.nx.gov.cn/kjdt/tzgg/202611/t20261109_5394789.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "广东省科学技术厅",
+   "kind": "gov",
+   "title": "广东省科学技术厅关于转发国家重点研发计划颠覆性技术创新重点专项2026年度项目申报指引的通知",
+   "date": "2026-11-09",
+   "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4976557.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "新疆科技厅",
+   "kind": "gov",
+   "title": "关于更新承接科技计划项目结题审计服务会计师事务所备案名单的通知",
+   "date": "2026-11-09",
+   "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/202611/b90ecbfe498a4a4bbc07be116345bed2.shtml",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "珠海市发展和改革局",
+   "kind": "gov",
+   "title": "珠海市“十五五”能源发展思路课题研究服务采购项目公开招标公告",
+   "date": "2026-11-09",
+   "url": "https://fgj.zhuhai.gov.cn/zwgk/tzgg/content/post_3957848.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "科学技术部",
+   "kind": "gov",
+   "title": "科技部直属事业单位（中国科学技术信息研究所）2026年度面向社会公开招聘工作人员公告",
+   "date": "2026-11-09",
+   "url": "http://www.most.gov.cn/tztg/202611/t20261109_197686.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "科学技术部火炬高技术产业开发中心",
+   "kind": "gov",
+   "title": "关于举办2026火炬论坛的预通知",
+   "date": "2026-11-09",
+   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202611/f3006fae872940a8b672c7c09ab7bb3b.shtml",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "贵州科技厅",
+   "kind": "gov",
+   "title": "贵州省科学技术厅关于2026年贵州省实验动物行政许可事项（第九批）的公告",
+   "date": "2026-11-09",
+   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261109_91085232.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "NSFC",
+   "kind": "gov",
+   "title": "关于发布国家重点研发计划“重大需求导向的数学理论 及应用”等重点专项2026年度项...",
+   "date": "2026-11-10",
+   "url": "https://www.nsfc.gov.cn/p1/3381/2824/145508.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "湖北科技厅",
+   "kind": "gov",
+   "title": "2026年社发领域部分技术创新计划项目评审专家公示",
+   "date": "2026-11-10",
+   "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202611/t20261110_6078915.shtml",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "湖北科技厅",
+   "kind": "gov",
+   "title": "2026年农业领域部分技术创新计划项目评审专家公示",
+   "date": "2026-11-10",
+   "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/202611/t20261110_6078692.shtml",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "珠海市商务局",
+   "kind": "gov",
+   "title": "珠海分团关于第141届中国进出口商品交易会出口展展位申请事宜的通知 2026-11-10",
+   "date": "2026-11-10",
+   "url": "https://swj.zhuhai.gov.cn/zwgk/tzgg/content/post_3958016.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "珠海市软件行业协会",
+   "kind": "gov",
+   "title": "关于举办珠海市软件和信息技术服务业企业AI转型系列培训（第三期）—AI时代战略思维与技术管理培训班的通知",
+   "date": "2026-11-10",
+   "url": "http://www.zsia.org.cn/index.php/news/detail/id/17561/cid/37.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "科学技术部火炬高技术产业开发中心",
+   "kind": "gov",
+   "title": "关于征集《科技服务业 科技服务能力成熟度模型与评估方法》行业标准参编单位的通知",
+   "date": "2026-11-10",
+   "url": "http://www.chinatorch.gov.cn/kjb/tzgg/202611/7039282c6b2c45d7b98e2e72666de797.shtml",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "贵州科技厅",
+   "kind": "gov",
+   "title": "省科技厅关于2026年决策科学项目接受一次性补正的通知",
+   "date": "2026-11-10",
+   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261110_91090502.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "贵州科技厅",
+   "kind": "gov",
+   "title": "关于贵州省2026年第三批高新技术企业更名的公告",
+   "date": "2026-11-10",
+   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261110_91089826.html",
+   "hkmo": false,
+   "isNew": true,
+   "via": "url"
+  },
+  {
+   "site": "贵州科技厅",
+   "kind": "gov",
+   "title": "关于贵州省2026年第二批完成异地搬迁高新技术企业的公告",
+   "date": "2026-11-10",
+   "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/202611/t20261110_91089773.html",
    "hkmo": false,
    "isNew": true,
    "via": "url"
@@ -3366,7 +2224,7 @@
    "url": "https://www.nsfc.gov.cn/p1/3381/2824/zntg.html",
    "ok": true,
    "code": 200,
-   "ms": 227,
+   "ms": 2900,
    "count": 15
   },
   {
@@ -3375,35 +2233,17 @@
    "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/",
    "ok": true,
    "code": 200,
-   "ms": 486,
+   "ms": 9643,
    "count": 15
   },
   {
-   "name": "中国（珠海）知识产权保护中心",
+   "name": "吉林科技厅",
    "kind": "gov",
-   "url": "https://zhuhai.cnippc.com.cn/",
+   "url": "http://kjt.jl.gov.cn/",
    "ok": true,
    "code": 200,
-   "ms": 440,
-   "count": 6
-  },
-  {
-   "name": "内蒙古自治区科技厅",
-   "kind": "gov",
-   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/",
-   "ok": true,
-   "code": 200,
-   "ms": 488,
-   "count": 15
-  },
-  {
-   "name": "四川科技厅",
-   "kind": "gov",
-   "url": "http://kjt.sc.gov.cn/kjt/gstz/newschild.shtml",
-   "ok": true,
-   "code": 200,
-   "ms": 451,
-   "count": 13
+   "ms": 7113,
+   "count": 8
   },
   {
    "name": "国家科技管理信息系统公共服务平台",
@@ -3411,17 +2251,8 @@
    "url": "https://service.most.gov.cn/",
    "ok": true,
    "code": 200,
-   "ms": 494,
+   "ms": 2780,
    "count": 0
-  },
-  {
-   "name": "天津科技委员会",
-   "kind": "gov",
-   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/",
-   "ok": true,
-   "code": 200,
-   "ms": 1109,
-   "count": 15
   },
   {
    "name": "宁夏科技厅",
@@ -3429,35 +2260,8 @@
    "url": "https://kjt.nx.gov.cn/kjdt/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 422,
-   "count": 15
-  },
-  {
-   "name": "安徽科技厅",
-   "kind": "gov",
-   "url": "http://kjt.ah.gov.cn/kjzx/tzgg/index.html",
-   "ok": true,
-   "code": 200,
-   "ms": 267,
-   "count": 15
-  },
-  {
-   "name": "山东科技厅",
-   "kind": "gov",
-   "url": "http://kjt.shandong.gov.cn/col/col13360/index.html",
-   "ok": true,
-   "code": 200,
-   "ms": 216,
-   "count": 0
-  },
-  {
-   "name": "山西科技厅",
-   "kind": "gov",
-   "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/tzgg_11716/",
-   "ok": true,
-   "code": 200,
-   "ms": 417,
-   "count": 3
+   "ms": 9469,
+   "count": 14
   },
   {
    "name": "广东省工业和信息化厅",
@@ -3465,8 +2269,8 @@
    "url": "http://gdii.gd.gov.cn/zwgk/tzgg1011/index.html",
    "ok": true,
    "code": 200,
-   "ms": 114,
-   "count": 14
+   "ms": 2381,
+   "count": 13
   },
   {
    "name": "广东省科学技术厅",
@@ -3474,16 +2278,7 @@
    "url": "http://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 150,
-   "count": 15
-  },
-  {
-   "name": "广西科技厅",
-   "kind": "gov",
-   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/",
-   "ok": true,
-   "code": 200,
-   "ms": 315,
+   "ms": 1996,
    "count": 15
   },
   {
@@ -3492,8 +2287,8 @@
    "url": "http://kjt.xinjiang.gov.cn/kjt/c100264/common_list.shtml",
    "ok": true,
    "code": 200,
-   "ms": 404,
-   "count": 12
+   "ms": 4029,
+   "count": 11
   },
   {
    "name": "横琴资讯",
@@ -3501,44 +2296,8 @@
    "url": "http://www.hengqin.gov.cn/macao_zh_hans/zwgk/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 338,
+   "ms": 4352,
    "count": 0
-  },
-  {
-   "name": "江西科技厅",
-   "kind": "gov",
-   "url": "http://kjt.jiangxi.gov.cn/col/col27029/index.html",
-   "ok": true,
-   "code": 200,
-   "ms": 181,
-   "count": 0
-  },
-  {
-   "name": "河南科技厅",
-   "kind": "gov",
-   "url": "http://kjt.henan.gov.cn/tzgg/",
-   "ok": true,
-   "code": 200,
-   "ms": 528,
-   "count": 10
-  },
-  {
-   "name": "浙江科技厅",
-   "kind": "gov",
-   "url": "http://kjt.zj.gov.cn/col/col1229225203/index.html",
-   "ok": true,
-   "code": 200,
-   "ms": 486,
-   "count": 0
-  },
-  {
-   "name": "海南科技厅",
-   "kind": "gov",
-   "url": "http://dost.hainan.gov.cn/xxgk/tzgg/",
-   "ok": true,
-   "code": 200,
-   "ms": 642,
-   "count": 9
   },
   {
    "name": "湖北科技厅",
@@ -3546,8 +2305,8 @@
    "url": "http://kjt.hubei.gov.cn/kjdt/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 480,
-   "count": 14
+   "ms": 10128,
+   "count": 15
   },
   {
    "name": "湖南科技厅",
@@ -3555,7 +2314,7 @@
    "url": "http://kjt.hunan.gov.cn/kjt/xxgk/tzgg/tzgg_1/index.html",
    "ok": true,
    "code": 200,
-   "ms": 656,
+   "ms": 4255,
    "count": 12
   },
   {
@@ -3564,7 +2323,7 @@
    "url": "https://zhsme.org.cn/policy/toPlicyMain?type=12",
    "ok": true,
    "code": 200,
-   "ms": 558,
+   "ms": 2936,
    "count": 0
   },
   {
@@ -3573,7 +2332,7 @@
    "url": "https://zhsme.org.cn/kfsys/laboratory/view/7876f501-8434-4fae-9dfb-278aa3f2a7a9",
    "ok": true,
    "code": 200,
-   "ms": 296,
+   "ms": 2853,
    "count": 0
   },
   {
@@ -3582,7 +2341,7 @@
    "url": "http://zhrsj.zhuhai.gov.cn/zc/zcjd/",
    "ok": true,
    "code": 200,
-   "ms": 233,
+   "ms": 4525,
    "count": 2
   },
   {
@@ -3590,8 +2349,8 @@
    "kind": "gov",
    "url": "http://www.zhuhai.gov.cn/zfxxgk/zfxxgkml/",
    "ok": true,
-   "code": 200,
-   "ms": 201,
+   "code": 301,
+   "ms": 5834,
    "count": 0
   },
   {
@@ -3600,7 +2359,7 @@
    "url": "http://fgj.zhuhai.gov.cn/zwgk/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 231,
+   "ms": 5913,
    "count": 5
   },
   {
@@ -3609,7 +2368,7 @@
    "url": "http://swj.zhuhai.gov.cn/zwgk/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 231,
+   "ms": 2563,
    "count": 11
   },
   {
@@ -3618,7 +2377,7 @@
    "url": "http://www.zhuhai.gov.cn/gxj/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 346,
+   "ms": 2929,
    "count": 0
   },
   {
@@ -3627,7 +2386,7 @@
    "url": "http://www.zhuhai.gov.cn/scjgj/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 368,
+   "ms": 3618,
    "count": 0
   },
   {
@@ -3636,7 +2395,7 @@
    "url": "http://zhjy.zhuhai.gov.cn/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 345,
+   "ms": 5163,
    "count": 0
   },
   {
@@ -3645,7 +2404,7 @@
    "url": "https://www.zhsk.gov.cn/show/channel/46",
    "ok": true,
    "code": 200,
-   "ms": 324,
+   "ms": 3128,
    "count": 0
   },
   {
@@ -3654,7 +2413,7 @@
    "url": "http://www.zhast.com.cn/tzgg/index_1.html",
    "ok": true,
    "code": 200,
-   "ms": 192,
+   "ms": 5821,
    "count": 0
   },
   {
@@ -3663,7 +2422,7 @@
    "url": "http://www.zhuhai.gov.cn/kjcxj/gkmlpt/index",
    "ok": true,
    "code": 200,
-   "ms": 350,
+   "ms": 3650,
    "count": 0
   },
   {
@@ -3672,7 +2431,7 @@
    "url": "http://sc.zhsti.net/",
    "ok": true,
    "code": 200,
-   "ms": 174,
+   "ms": 2818,
    "count": 0
   },
   {
@@ -3681,7 +2440,7 @@
    "url": "http://caizheng.zhuhai.gov.cn/ljcz/tzgg/index.html",
    "ok": true,
    "code": 200,
-   "ms": 214,
+   "ms": 2910,
    "count": 0
   },
   {
@@ -3690,8 +2449,8 @@
    "url": "http://www.zsia.org.cn/index.php/news/titlelist/cid/37.html",
    "ok": true,
    "code": 200,
-   "ms": 288,
-   "count": 3
+   "ms": 5010,
+   "count": 4
   },
   {
    "name": "福建科技厅",
@@ -3699,7 +2458,7 @@
    "url": "http://kjt.fujian.gov.cn/xxgk/tzgg/",
    "ok": true,
    "code": 200,
-   "ms": 246,
+   "ms": 4556,
    "count": 15
   },
   {
@@ -3708,7 +2467,7 @@
    "url": "http://www.most.gov.cn/tztg/",
    "ok": true,
    "code": 200,
-   "ms": 449,
+   "ms": 3322,
    "count": 5
   },
   {
@@ -3717,7 +2476,7 @@
    "url": "http://www.chinatorch.gov.cn/",
    "ok": true,
    "code": 200,
-   "ms": 266,
+   "ms": 3197,
    "count": 9
   },
   {
@@ -3726,8 +2485,8 @@
    "url": "http://kjt.guizhou.gov.cn/xwzx/tzgg_73876/",
    "ok": true,
    "code": 200,
-   "ms": 197,
-   "count": 11
+   "ms": 3584,
+   "count": 12
   },
   {
    "name": "辽宁科技厅",
@@ -3735,26 +2494,17 @@
    "url": "http://kjt.ln.gov.cn/tztg/gztz/",
    "ok": true,
    "code": 200,
-   "ms": 580,
+   "ms": 8208,
    "count": 15
   },
   {
-   "name": "重庆市科学技术局",
+   "name": "中国（珠海）知识产权保护中心",
    "kind": "gov",
-   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/",
-   "ok": true,
-   "code": 200,
-   "ms": 266,
-   "count": 14
-  },
-  {
-   "name": "青海科技厅",
-   "kind": "gov",
-   "url": "http://kjt.qinghai.gov.cn/content/lists/cid/7/pid/26/page/",
-   "ok": true,
-   "code": 200,
-   "ms": 663,
-   "count": 15
+   "url": "https://zhuhai.cnippc.com.cn/",
+   "ok": false,
+   "code": 0,
+   "ms": 15047,
+   "count": 0
   },
   {
    "name": "云南科技厅",
@@ -3762,7 +2512,16 @@
    "url": "http://kjt.yn.gov.cn/list-12-2.html",
    "ok": false,
    "code": 404,
-   "ms": 382,
+   "ms": 3521,
+   "count": 0
+  },
+  {
+   "name": "内蒙古自治区科技厅",
+   "kind": "gov",
+   "url": "https://kjt.nmg.gov.cn/kjdt/tzgg/",
+   "ok": false,
+   "code": 403,
+   "ms": 8424,
    "count": 0
   },
   {
@@ -3771,16 +2530,61 @@
    "url": "http://kw.beijing.gov.cn/col/col736/index.html",
    "ok": false,
    "code": 404,
-   "ms": 365,
+   "ms": 5468,
    "count": 0
   },
   {
-   "name": "吉林科技厅",
+   "name": "四川科技厅",
    "kind": "gov",
-   "url": "http://kjt.jl.gov.cn/",
+   "url": "http://kjt.sc.gov.cn/kjt/gstz/newschild.shtml",
    "ok": false,
-   "code": 502,
-   "ms": 694,
+   "code": 0,
+   "ms": 15097,
+   "count": 0
+  },
+  {
+   "name": "天津科技委员会",
+   "kind": "gov",
+   "url": "http://kxjs.tj.gov.cn/ZWGK4143/TZGG2079/",
+   "ok": false,
+   "code": 403,
+   "ms": 9765,
+   "count": 0
+  },
+  {
+   "name": "安徽科技厅",
+   "kind": "gov",
+   "url": "http://kjt.ah.gov.cn/kjzx/tzgg/index.html",
+   "ok": false,
+   "code": 403,
+   "ms": 3801,
+   "count": 0
+  },
+  {
+   "name": "山东科技厅",
+   "kind": "gov",
+   "url": "http://kjt.shandong.gov.cn/col/col13360/index.html",
+   "ok": false,
+   "code": 0,
+   "ms": 15033,
+   "count": 0
+  },
+  {
+   "name": "山西科技厅",
+   "kind": "gov",
+   "url": "http://kjt.shanxi.gov.cn/xxgk/zfxxgkml/azt_11688/tzgg_11716/",
+   "ok": false,
+   "code": 0,
+   "ms": 15024,
+   "count": 0
+  },
+  {
+   "name": "广西科技厅",
+   "kind": "gov",
+   "url": "http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/",
+   "ok": false,
+   "code": 0,
+   "ms": 15086,
    "count": 0
   },
   {
@@ -3789,7 +2593,16 @@
    "url": "http://std.jiangsu.gov.cn/col/col82540/index.html",
    "ok": false,
    "code": 0,
-   "ms": 79,
+   "ms": 2842,
+   "count": 0
+  },
+  {
+   "name": "江西科技厅",
+   "kind": "gov",
+   "url": "http://kjt.jiangxi.gov.cn/col/col27029/index.html",
+   "ok": false,
+   "code": 0,
+   "ms": 15025,
    "count": 0
   },
   {
@@ -3797,8 +2610,35 @@
    "kind": "gov",
    "url": "https://kjt.hebei.gov.cn/www/xwzx15/tzgg35/index.html",
    "ok": false,
-   "code": 404,
-   "ms": 1362,
+   "code": 0,
+   "ms": 15090,
+   "count": 0
+  },
+  {
+   "name": "河南科技厅",
+   "kind": "gov",
+   "url": "http://kjt.henan.gov.cn/tzgg/",
+   "ok": false,
+   "code": 403,
+   "ms": 1010,
+   "count": 0
+  },
+  {
+   "name": "浙江科技厅",
+   "kind": "gov",
+   "url": "http://kjt.zj.gov.cn/col/col1229225203/index.html",
+   "ok": false,
+   "code": 0,
+   "ms": 15030,
+   "count": 0
+  },
+  {
+   "name": "海南科技厅",
+   "kind": "gov",
+   "url": "http://dost.hainan.gov.cn/xxgk/tzgg/",
+   "ok": false,
+   "code": 0,
+   "ms": 15021,
    "count": 0
   },
   {
@@ -3807,7 +2647,7 @@
    "url": "http://zwgk.zhxz.gov.cn/",
    "ok": false,
    "code": 0,
-   "ms": 22,
+   "ms": 2174,
    "count": 0
   },
   {
@@ -3816,7 +2656,7 @@
    "url": "http://www.zhsti.net/s_show.aspx?id=04-01-01",
    "ok": false,
    "code": 404,
-   "ms": 354,
+   "ms": 5827,
    "count": 0
   },
   {
@@ -3825,7 +2665,7 @@
    "url": "http://kjt.gansu.gov.cn/kjt/c111529/info_list.shtml",
    "ok": false,
    "code": 412,
-   "ms": 397,
+   "ms": 2194,
    "count": 0
   },
   {
@@ -3833,8 +2673,17 @@
    "kind": "gov",
    "url": "http://sti.xizang.gov.cn/xxgk/tzgg/",
    "ok": false,
-   "code": 404,
-   "ms": 280,
+   "code": 0,
+   "ms": 15077,
+   "count": 0
+  },
+  {
+   "name": "重庆市科学技术局",
+   "kind": "gov",
+   "url": "http://kjj.cq.gov.cn/zwxx_176/tzgg/",
+   "ok": false,
+   "code": 0,
+   "ms": 15024,
    "count": 0
   },
   {
@@ -3842,8 +2691,17 @@
    "kind": "gov",
    "url": "https://kjt.shaanxi.gov.cn/view/iList.jsp?cat_id=221",
    "ok": false,
-   "code": 404,
-   "ms": 272,
+   "code": 0,
+   "ms": 15076,
+   "count": 0
+  },
+  {
+   "name": "青海科技厅",
+   "kind": "gov",
+   "url": "http://kjt.qinghai.gov.cn/content/lists/cid/7/pid/26/page/",
+   "ok": false,
+   "code": 0,
+   "ms": 15076,
    "count": 0
   },
   {
@@ -3852,7 +2710,7 @@
    "url": "http://www.hljkjt.gov.cn/html/zwgk/tztg/list.html",
    "ok": false,
    "code": 0,
-   "ms": 36,
+   "ms": 2950,
    "count": 0
   },
   {
@@ -3861,7 +2719,7 @@
    "url": "https://damo.alibaba.com/",
    "ok": true,
    "code": 200,
-   "ms": 302,
+   "ms": 4576,
    "count": 0
   },
   {
@@ -3870,7 +2728,7 @@
    "url": "https://developer.huaweicloud.com/",
    "ok": true,
    "code": 200,
-   "ms": 93,
+   "ms": 2891,
    "count": 0
   },
   {
@@ -3879,7 +2737,7 @@
    "url": "https://leihuo.163.com/",
    "ok": true,
    "code": 200,
-   "ms": 197,
+   "ms": 886,
    "count": 0
   },
   {
@@ -3888,7 +2746,7 @@
    "url": "https://scholarship.bytedance.com/",
    "ok": true,
    "code": 200,
-   "ms": 358,
+   "ms": 2191,
    "count": 0
   },
   {
@@ -3897,7 +2755,7 @@
    "url": "https://www.antresearch.com/",
    "ok": true,
    "code": 200,
-   "ms": 657,
+   "ms": 2935,
    "count": 0
   },
   {
@@ -3906,7 +2764,7 @@
    "url": "https://www.aysfellowship.org/",
    "ok": true,
    "code": 200,
-   "ms": 1370,
+   "ms": 1963,
    "count": 0
   },
   {
@@ -3915,7 +2773,7 @@
    "url": "https://www.caai.cn/",
    "ok": true,
    "code": 200,
-   "ms": 290,
+   "ms": 3378,
    "count": 3
   },
   {
@@ -3924,7 +2782,7 @@
    "url": "https://www.camscma.cn/",
    "ok": true,
    "code": 200,
-   "ms": 475,
+   "ms": 2331,
    "count": 0
   },
   {
@@ -3933,7 +2791,7 @@
    "url": "https://www.ccf.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 298,
+   "ms": 1583,
    "count": 2
   },
   {
@@ -3942,7 +2800,7 @@
    "url": "https://www.chaspark.com/",
    "ok": true,
    "code": 200,
-   "ms": 132,
+   "ms": 2379,
    "count": 0
   },
   {
@@ -3951,7 +2809,7 @@
    "url": "https://www.hecpharm.com/",
    "ok": true,
    "code": 200,
-   "ms": 1484,
+   "ms": 4059,
    "count": 0
   },
   {
@@ -3960,7 +2818,7 @@
    "url": "https://www.heprize.org/",
    "ok": true,
    "code": 200,
-   "ms": 316,
+   "ms": 4310,
    "count": 2
   },
   {
@@ -3969,7 +2827,7 @@
    "url": "https://www.qscgba.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 98,
+   "ms": 2250,
    "count": 0
   },
   {
@@ -3978,7 +2836,7 @@
    "url": "https://www.wizsci.com/",
    "ok": true,
    "code": 200,
-   "ms": 174,
+   "ms": 1057,
    "count": 0
   },
   {
@@ -3987,7 +2845,7 @@
    "url": "https://www.xplorerprize.org/",
    "ok": true,
    "code": 200,
-   "ms": 538,
+   "ms": 3386,
    "count": 0
   },
   {
@@ -3996,7 +2854,7 @@
    "url": "https://xisike.csco.org.cn/",
    "ok": true,
    "code": 200,
-   "ms": 286,
+   "ms": 2296,
    "count": 0
   },
   {
@@ -4014,7 +2872,7 @@
    "url": "https://lmg.cipsc.org.cn/",
    "ok": false,
    "code": 0,
-   "ms": 240,
+   "ms": 3239,
    "count": 0
   },
   {
@@ -4023,7 +2881,7 @@
    "url": "https://www.cepf.org.cn/",
    "ok": false,
    "code": 0,
-   "ms": 79,
+   "ms": 2682,
    "count": 0
   },
   {
@@ -4032,7 +2890,7 @@
    "url": "https://www.mpcs.cn/",
    "ok": false,
    "code": 0,
-   "ms": 158,
+   "ms": 1812,
    "count": 0
   }
  ],
